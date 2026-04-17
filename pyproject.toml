@@ -1,0 +1,13 @@
+[project]
+name = "episten"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "mineru[pipeline]>=3.1.0",
+    "requests>=2.33.1",
+    "selenium>=4.43.0",
+    "webdriver-manager>=4.0.2",
+]
