@@ -7,7 +7,10 @@ requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.14.3",
     "mineru[pipeline]>=3.1.0",
+    "networkx>=3.6.1",
+    "pyvis>=0.3.2",
     "requests>=2.33.1",
     "selenium>=4.43.0",
+    "spacy>=3.8.14",
     "webdriver-manager>=4.0.2",
 ]

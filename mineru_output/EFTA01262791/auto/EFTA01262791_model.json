@@ -1,0 +1,3414 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8666,
+                "bbox": [
+                    213,
+                    208,
+                    780,
+                    286
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7413,
+                "bbox": [
+                    921,
+                    136,
+                    1493,
+                    242
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.734,
+                "bbox": [
+                    229,
+                    318,
+                    861,
+                    509
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8282,
+                "bbox": [
+                    1005,
+                    391,
+                    1380,
+                    432
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9544,
+                "bbox": [
+                    305,
+                    563,
+                    1210,
+                    605
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9736,
+                "bbox": [
+                    209,
+                    637,
+                    1416,
+                    756
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865,
+                "bbox": [
+                    205,
+                    785,
+                    1468,
+                    1054
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9431,
+                "bbox": [
+                    303,
+                    1084,
+                    512,
+                    1124
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8491,
+                "bbox": [
+                    674,
+                    1060,
+                    956,
+                    1153
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9413,
+                "bbox": [
+                    303,
+                    1158,
+                    545,
+                    1197
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.6595,
+                "bbox": [
+                    691,
+                    1158,
+                    1025,
+                    1194
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9854,
+                "bbox": [
+                    202,
+                    1231,
+                    1468,
+                    1499
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9446,
+                "bbox": [
+                    722,
+                    1530,
+                    958,
+                    1571
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871,
+                "bbox": [
+                    200,
+                    1598,
+                    1466,
+                    1943
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8962,
+                "bbox": [
+                    1260,
+                    2029,
+                    1484,
+                    2062
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9297,
+                "bbox": [
+                    1463,
+                    2133,
+                    1662,
+                    2168
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9364,
+                "bbox": [
+                    1442,
+                    2199,
+                    1680,
+                    2236
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    210,
+                    741,
+                    245
+                ],
+                "score": 0.979,
+                "text": "UNITED STATES DISTRICT COURT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    247,
+                    777,
+                    284
+                ],
+                "score": 0.969,
+                "text": "SOUTHERN DISTRICT OF NEW YORK"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    907,
+                    140,
+                    1498,
+                    240
+                ],
+                "score": 0.943,
+                "text": "2UMAG00043"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    319,
+                    861,
+                    356
+                ],
+                "score": 0.949,
+                "text": "IN THE MATTER OF ANAPPLICATION OF"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    235,
+                    358,
+                    835,
+                    393
+                ],
+                "score": 0.967,
+                "text": "THE UNITED STATES OF AMERICA FOR"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    394,
+                    857,
+                    431
+                ],
+                "score": 0.933,
+                "text": "AN ORDER AUTHORIZING THE USE OFA"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    231,
+                    432,
+                    831,
+                    468
+                ],
+                "score": 0.98,
+                "text": "PENREGISTERAND TRAP-AND-TRACE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    232,
+                    468,
+                    789,
+                    505
+                ],
+                "score": 0.957,
+                "text": "DEVICE ON A CERTAIN TELEPHONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1008,
+                    390,
+                    1380,
+                    434
+                ],
+                "score": 0.982,
+                "text": "SEALED APPLICATION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    560,
+                    1211,
+                    604
+                ],
+                "score": 0.978,
+                "text": "Alex Rossmiller hereby affirms, under penalty of perjury, as follows:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    303,
+                    635,
+                    1418,
+                    678
+                ],
+                "score": 0.947,
+                "text": "I am an Assistant United States Attorney in the office of Geoffrey S. Berman, United"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    710,
+                    1377,
+                    752
+                ],
+                "score": 0.967,
+                "text": "States Attorney for the Southern District of New York, and I am familiar with this matter."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    310,
+                    791,
+                    352,
+                    827
+                ],
+                "score": 0.983,
+                "text": "1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    400,
+                    780,
+                    1471,
+                    831
+                ],
+                "score": 0.98,
+                "text": "The Government is seeking an order pursuant to 18 U.S.C. 8 3123 authorizing the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    858,
+                    1459,
+                    905
+                ],
+                "score": 0.976,
+                "text": "installation and use of a pen register and trap-and-trace device (the \"Requested Pen-Trap\") for a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    932,
+                    1375,
+                    979
+                ],
+                "score": 0.965,
+                "text": "period of sixty (6o) days following the date of this order, on the following phone line (the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1003,
+                    978,
+                    1055
+                ],
+                "score": 0.942,
+                "text": "\"Target Phone\") maintained by T-Mobile (the \"Provider\")."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    303,
+                    1231,
+                    349,
+                    1274
+                ],
+                "score": 0.979,
+                "text": "2."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    398,
+                    1229,
+                    1470,
+                    1272
+                ],
+                "score": 0.973,
+                "text": "The Government is seeking the Requested Pen-Trap in connection with a criminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1304,
+                    1451,
+                    1347
+                ],
+                "score": 0.986,
+                "text": "investigation conducted by the Federal Bureau of Investigation (the \"Investigating Agency\") of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    205,
+                    1378,
+                    1454,
+                    1421
+                ],
+                "score": 0.976,
+                "text": "FNU LNU and others known and unknown (the \"Target Subjects\"), in connection with possible"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1454,
+                    618,
+                    1496
+                ],
+                "score": 0.966,
+                "text": "violations of 21 U.S.C. 8 1591."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    304,
+                    1082,
+                    512,
+                    1124
+                ],
+                "score": 0.963,
+                "text": "Phone number:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1464,
+                    2135,
+                    1662,
+                    2167
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114101"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    303,
+                    1152,
+                    548,
+                    1200
+                ],
+                "score": 0.992,
+                "text": "Subscriber Name:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    722,
+                    1525,
+                    959,
+                    1572
+                ],
+                "score": 0.996,
+                "text": "Legal Authority"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1261,
+                    2028,
+                    1484,
+                    2063
+                ],
+                "score": 0.991,
+                "text": "SDNY_GM_00000017"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    2201,
+                    1683,
+                    2239
+                ],
+                "score": 0.998,
+                "text": "EFTA01262791"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    691,
+                    1156,
+                    1026,
+                    1195
+                ],
+                "score": 0.971,
+                "text": "TERRAMAR PROJECT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    304,
+                    1603,
+                    347,
+                    1642
+                ],
+                "score": 0.993,
+                "text": "3."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    391,
+                    1597,
+                    1470,
+                    1643
+                ],
+                "score": 0.969,
+                "text": "A \"pen register\" is \"a device or process which records or decodes dialing, routing,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    204,
+                    1671,
+                    1442,
+                    1716
+                ],
+                "score": 0.982,
+                "text": "addressing, or signaling information transmitted by an instrument or facility from which a wire"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1747,
+                    1451,
+                    1789
+                ],
+                "score": 0.944,
+                "text": "or electronic communication is transmitted.\" 18 U.S.C. 8 3127(3). A \"trap and trace device\" is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1821,
+                    1449,
+                    1864
+                ],
+                "score": 0.981,
+                "text": "defined as \"a device or process which captures the incoming electronic or other impulses which"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    204,
+                    1894,
+                    1438,
+                    1941
+                ],
+                "score": 0.974,
+                "text": "identify the originating number or other dialing, routing, addressing, and signaling information"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1700,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9747,
+                "bbox": [
+                    209,
+                    207,
+                    1392,
+                    331
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873,
+                "bbox": [
+                    208,
+                    357,
+                    1429,
+                    776
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878,
+                "bbox": [
+                    207,
+                    804,
+                    1472,
+                    1221
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9476,
+                "bbox": [
+                    303,
+                    1249,
+                    1243,
+                    1293
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.973,
+                "bbox": [
+                    401,
+                    1324,
+                    1453,
+                    1443
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.976,
+                "bbox": [
+                    402,
+                    1476,
+                    1419,
+                    1595
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9416,
+                "bbox": [
+                    404,
+                    1629,
+                    929,
+                    1669
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9681,
+                "bbox": [
+                    207,
+                    1841,
+                    1466,
+                    1961
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8584,
+                "bbox": [
+                    210,
+                    2029,
+                    309,
+                    2060
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8756,
+                "bbox": [
+                    832,
+                    1995,
+                    858,
+                    2028
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8568,
+                "bbox": [
+                    1260,
+                    2029,
+                    1484,
+                    2062
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.918,
+                "bbox": [
+                    1463,
+                    2133,
+                    1664,
+                    2168
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9284,
+                "bbox": [
+                    1442,
+                    2199,
+                    1683,
+                    2237
+                ],
+                "index": 13
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    204,
+                    278,
+                    361,
+                    336
+                ],
+                "score": 0.883,
+                "text": "δ 3127(4)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    204,
+                    1391,
+                    251
+                ],
+                "score": 0.968,
+                "text": "reasonably likely to identify the source of a wire or electronic communication.\"18 U.S.C."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1464,
+                    2135,
+                    1664,
+                    2167
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114102"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1261,
+                    2028,
+                    1486,
+                    2063
+                ],
+                "score": 0.998,
+                "text": "SDNY_GM_00000018"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1443,
+                    2200,
+                    1685,
+                    2241
+                ],
+                "score": 0.999,
+                "text": "EFTA01262792"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    362,
+                    353,
+                    400
+                ],
+                "score": 0.938,
+                "text": "4."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    396,
+                    357,
+                    1407,
+                    398
+                ],
+                "score": 0.993,
+                "text": "In the context of traditional phone communications, pen registers capture the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    432,
+                    1429,
+                    472
+                ],
+                "score": 0.979,
+                "text": "destination phone numbers of outgoing calls and texts sent from a phone, while trap and trace"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    509,
+                    1415,
+                    545
+                ],
+                "score": 0.982,
+                "text": "devices capture the phone numbers of incoming calls and texts received by a phone. Similar"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    214,
+                    736,
+                    444,
+                    772
+                ],
+                "score": 0.998,
+                "text": "communications."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    577,
+                    1374,
+                    626
+                ],
+                "score": 0.967,
+                "text": "principles apply to other kinds of wire and electronic communications, including Intermet"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    651,
+                    1418,
+                    698
+                ],
+                "score": 0.979,
+                "text": "communications, which most phones today are used to send and receive in addition to phone"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    807,
+                    352,
+                    848
+                ],
+                "score": 0.992,
+                "text": "5."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    402,
+                    804,
+                    1393,
+                    841
+                ],
+                "score": 0.984,
+                "text": "On the Internet, data transferred between devices is not sent as a continuous"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    879,
+                    1474,
+                    917
+                ],
+                "score": 0.965,
+                "text": "stream, but rather the data are split into discrete \"packets.\" Generally, a single communication is"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    954,
+                    1376,
+                    992
+                ],
+                "score": 0.987,
+                "text": "sent as a series of packets. When the packets reach their destination, the receiving device"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1027,
+                    1411,
+                    1066
+                ],
+                "score": 0.979,
+                "text": "reassembles them into the complete communication. Each packet has two parts: a \"header,\""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1101,
+                    1456,
+                    1139
+                ],
+                "score": 0.972,
+                "text": "which contains routing and control information, and a \"payload,\" which generally contains user"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1174,
+                    289,
+                    1222
+                ],
+                "score": 0.986,
+                "text": "data."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    1252,
+                    345,
+                    1293
+                ],
+                "score": 0.993,
+                "text": "6."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    401,
+                    1246,
+                    1242,
+                    1290
+                ],
+                "score": 0.989,
+                "text": "In particular, a packet header reflects the following information:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    406,
+                    1326,
+                    1451,
+                    1361
+                ],
+                "score": 0.967,
+                "text": "• the source IP address' from which the packet was sent and the destination IP"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    453,
+                    1400,
+                    969,
+                    1440
+                ],
+                "score": 0.989,
+                "text": "address to which the packet is directed;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    403,
+                    1475,
+                    1420,
+                    1516
+                ],
+                "score": 0.97,
+                "text": "• the communications port associated with the packet, reflecting the type of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    453,
+                    1553,
+                    1153,
+                    1589
+                ],
+                "score": 0.978,
+                "text": "communication involved (e.g., web, email, FTP); and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    403,
+                    1627,
+                    928,
+                    1666
+                ],
+                "score": 0.972,
+                "text": "• the date/time of the communication."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1841,
+                    1465,
+                    1882
+                ],
+                "score": 0.944,
+                "text": "1 Every device on the Internet is identified by a unique number called an Internet protocol (\"IP\")"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1881,
+                    1445,
+                    1919
+                ],
+                "score": 0.979,
+                "text": "address. This number is used to route information between devices, for example, between two"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1923,
+                    365,
+                    1965
+                ],
+                "score": 0.998,
+                "text": "computers."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    2025,
+                    311,
+                    2060
+                ],
+                "score": 0.998,
+                "text": "2017.02.06"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    832,
+                    1994,
+                    859,
+                    2031
+                ],
+                "score": 0.997,
+                "text": "2"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1700,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872,
+                "bbox": [
+                    209,
+                    210,
+                    1460,
+                    553
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9282,
+                "bbox": [
+                    661,
+                    582,
+                    1032,
+                    622
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9873,
+                "bbox": [
+                    208,
+                    651,
+                    1478,
+                    995
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9875,
+                "bbox": [
+                    208,
+                    1023,
+                    1466,
+                    1366
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9793,
+                "bbox": [
+                    208,
+                    1394,
+                    1466,
+                    1589
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9735,
+                "bbox": [
+                    207,
+                    1693,
+                    1482,
+                    1963
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8686,
+                "bbox": [
+                    212,
+                    2029,
+                    309,
+                    2060
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8664,
+                "bbox": [
+                    833,
+                    1995,
+                    858,
+                    2028
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7562,
+                "bbox": [
+                    1259,
+                    2029,
+                    1485,
+                    2062
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9073,
+                "bbox": [
+                    1462,
+                    2133,
+                    1664,
+                    2168
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9184,
+                "bbox": [
+                    1442,
+                    2199,
+                    1683,
+                    2237
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    666,
+                    580,
+                    1027,
+                    621
+                ],
+                "score": 0.998,
+                "text": "Certification and Request"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1690,
+                    1396,
+                    1737
+                ],
+                "score": 0.968,
+                "text": "2 The Government is also not seeking authorization to obtain post-cut-through dialed digits"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1735,
+                    1389,
+                    1769
+                ],
+                "score": 0.968,
+                "text": "(\"PCTDD\"), or digits that are dialed after a telephone call from the Target Phone has been"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1844,
+                    1478,
+                    1884
+                ],
+                "score": 0.958,
+                "text": "capabilities require it to forward all dialed digits, including PCTDD, to the Investigating Agency,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1883,
+                    1480,
+                    1919
+                ],
+                "score": 0.977,
+                "text": "the Investigating Agency wil only decode and forward to the agents assigned to the investigation"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1921,
+                    956,
+                    1958
+                ],
+                "score": 0.983,
+                "text": "the numbers that are dialed before the call is cut through."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1766,
+                    1438,
+                    1813
+                ],
+                "score": 0.914,
+                "text": "connected. Pursuant to the attached Order, if possible, the Provider will forward only pre-cut-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1803,
+                    1352,
+                    1850
+                ],
+                "score": 0.942,
+                "text": "through-dialed digits to the Investigating Agency. However, if the Provider's technical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1464,
+                    2133,
+                    1665,
+                    2168
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114103"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1260,
+                    2028,
+                    1486,
+                    2063
+                ],
+                "score": 0.993,
+                "text": "SDNY_GM_00000019"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    2201,
+                    1684,
+                    2239
+                ],
+                "score": 0.998,
+                "text": "EFTA01262793"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    312,
+                    213,
+                    356,
+                    252
+                ],
+                "score": 0.985,
+                "text": "7."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    402,
+                    210,
+                    1411,
+                    247
+                ],
+                "score": 0.993,
+                "text": "The information sought through the Requested Pen-Trap does not include the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    285,
+                    1451,
+                    321
+                ],
+                "score": 0.971,
+                "text": "\"contents\" of communications within the meaning of the Wiretap Statute, as it does not include"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    433,
+                    1439,
+                    472
+                ],
+                "score": 0.957,
+                "text": "s 2510(8). The Government is not requesting, and does not seek to obtain, the contents of any"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    509,
+                    457,
+                    549
+                ],
+                "score": 0.977,
+                "text": "communications.2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    352,
+                    1458,
+                    404
+                ],
+                "score": 0.95,
+                "text": "\"information concerning the substance, purport, or meaning\" of any communication. 18 U.S.C."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    653,
+                    350,
+                    693
+                ],
+                "score": 0.953,
+                "text": "8."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    398,
+                    650,
+                    1393,
+                    689
+                ],
+                "score": 0.983,
+                "text": "I am familiar with the facts of this investigation from my review of relevant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    727,
+                    1341,
+                    763
+                ],
+                "score": 0.989,
+                "text": "records and my discussions with the case agents involved. Based on those records and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    875,
+                    1365,
+                    915
+                ],
+                "score": 0.989,
+                "text": "obtained from the Requested Pen-Trap is relevant to the Investigating Agency's ongoing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    948,
+                    806,
+                    993
+                ],
+                "score": 0.982,
+                "text": "criminal investigation of the Target Subjects."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    795,
+                    1477,
+                    843
+                ],
+                "score": 0.964,
+                "text": "discussions, I hereby certify, pursuant to 18 U.S.C. 8 3123(a)(1), that the information likely to be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    1025,
+                    349,
+                    1067
+                ],
+                "score": 0.998,
+                "text": "9."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    403,
+                    1023,
+                    1443,
+                    1060
+                ],
+                "score": 0.975,
+                "text": "Accordingly, the Government requests that the Court enter an order authorizing"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1098,
+                    1377,
+                    1134
+                ],
+                "score": 0.972,
+                "text": "the installation and use of the Requested Pen-Trap to collect the phone numbers and/or IP"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1173,
+                    1465,
+                    1210
+                ],
+                "score": 0.972,
+                "text": "addresses and communications ports associated with any phone, text, or data communications to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1320,
+                    741,
+                    1365
+                ],
+                "score": 0.983,
+                "text": "communication, for a period of 60 days."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1242,
+                    1425,
+                    1287
+                ],
+                "score": 0.951,
+                "text": "or from the Target Phone, along with the date, time, and duration (but not the contents) of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    2026,
+                    311,
+                    2060
+                ],
+                "score": 0.976,
+                "text": "2017.02.06"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    833,
+                    1994,
+                    859,
+                    2030
+                ],
+                "score": 0.999,
+                "text": "3"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    307,
+                    1391,
+                    1384,
+                    1435
+                ],
+                "score": 0.972,
+                "text": "10. The Government further requests, pursuant to 18 U.S.C. 88 3123(b)(2) and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1466,
+                    1443,
+                    1510
+                ],
+                "score": 0.973,
+                "text": "3124(a)-(b), that the Order direct the Provider and any other person or entity providing wire or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1543,
+                    1463,
+                    1581
+                ],
+                "score": 0.979,
+                "text": "electronic communication service in the United States whose assistance may facilitate execution"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1700,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9366,
+                "bbox": [
+                    209,
+                    211,
+                    1397,
+                    555
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9164,
+                "bbox": [
+                    209,
+                    583,
+                    1475,
+                    777
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8967,
+                "bbox": [
+                    208,
+                    805,
+                    1445,
+                    1076
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9354,
+                "bbox": [
+                    206,
+                    1102,
+                    1468,
+                    1522
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9511,
+                "bbox": [
+                    304,
+                    1547,
+                    1435,
+                    1591
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9665,
+                "bbox": [
+                    209,
+                    1627,
+                    605,
+                    1701
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9095,
+                "bbox": [
+                    790,
+                    1620,
+                    1297,
+                    1807
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7077,
+                "bbox": [
+                    789,
+                    1810,
+                    1222,
+                    1923
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9002,
+                "bbox": [
+                    211,
+                    2034,
+                    306,
+                    2060
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8693,
+                "bbox": [
+                    833,
+                    1999,
+                    857,
+                    2028
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9089,
+                "bbox": [
+                    1262,
+                    2031,
+                    1482,
+                    2060
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9337,
+                "bbox": [
+                    1464,
+                    2134,
+                    1663,
+                    2166
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9333,
+                "bbox": [
+                    1443,
+                    2200,
+                    1682,
+                    2235
+                ],
+                "index": 13
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1623,
+                    605,
+                    1665
+                ],
+                "score": 0.959,
+                "text": "Dated: New York, New York"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    304,
+                    1662,
+                    572,
+                    1702
+                ],
+                "score": 0.956,
+                "text": "December 31, 2019"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1263,
+                    2031,
+                    1483,
+                    2060
+                ],
+                "score": 0.999,
+                "text": "SDNY_GM_00000020"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1464,
+                    2135,
+                    1665,
+                    2167
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114104"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    2201,
+                    1684,
+                    2239
+                ],
+                "score": 0.998,
+                "text": "EFTA01262794"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    307,
+                    1102,
+                    1382,
+                    1145
+                ],
+                "score": 0.978,
+                "text": "13. The Government further requests, pursuant to 18 U.S.C. 8 3123(d), that the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1178,
+                    1457,
+                    1217
+                ],
+                "score": 0.983,
+                "text": "Provider and its agents and employees be directed to refrain from disclosing the Requested Pen-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1253,
+                    1473,
+                    1292
+                ],
+                "score": 0.988,
+                "text": "Trap or the existence of the underlying investigation, except as necessary to effectuate the Order,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1474,
+                    1112,
+                    1520
+                ],
+                "score": 0.951,
+                "text": "by the United States Attoney's Office and the Investigating Agency."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1322,
+                    1394,
+                    1369
+                ],
+                "score": 0.966,
+                "text": "unless and until authorized by this Court, and that the Clerk of Court be directed to seal the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1397,
+                    1459,
+                    1444
+                ],
+                "score": 0.982,
+                "text": "Order (and this Application) until further order of this Court, except that copies may be retained"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    832,
+                    1997,
+                    858,
+                    2032
+                ],
+                "score": 0.998,
+                "text": "4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    307,
+                    582,
+                    1376,
+                    623
+                ],
+                "score": 0.982,
+                "text": "11. The Government further requests that the Order direct that the information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    733,
+                    1100,
+                    771
+                ],
+                "score": 0.989,
+                "text": "intervals during regular business hours for the duration of the Order."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    653,
+                    1475,
+                    702
+                ],
+                "score": 0.975,
+                "text": "collected through the Requested Pen-Trap be furnished to the Investigating Agency at reasonable"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    213,
+                    1399,
+                    252
+                ],
+                "score": 0.972,
+                "text": "of this Order to furnish, upon service of the Order, any information, facilities, and technical"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    361,
+                    1336,
+                    402
+                ],
+                "score": 0.986,
+                "text": "disruption of normal service. Any entity providing such assistance shall be reasonably"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    282,
+                    1359,
+                    330
+                ],
+                "score": 0.973,
+                "text": "assistance necessary to instal the Requested Pen-Trap unobtrusively and with minimum"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    432,
+                    1388,
+                    480
+                ],
+                "score": 0.977,
+                "text": "compensated by the Investigating Agency, pursuant to 18 U.S.C. 8 3124(c), for reasonable"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    505,
+                    1299,
+                    553
+                ],
+                "score": 0.964,
+                "text": "expenses incurred in providing facilities and assistance in furtherance of this Order."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    306,
+                    804,
+                    1444,
+                    846
+                ],
+                "score": 0.97,
+                "text": "12. The Government further requests that the Order direct the Provider to notify the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    882,
+                    1348,
+                    920
+                ],
+                "score": 0.99,
+                "text": "Investigating Agency of any changes relating to the Target Phone, including changes to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    955,
+                    1328,
+                    995
+                ],
+                "score": 0.989,
+                "text": "subscriber information, and to provide prior notice to the Investigating Agency before"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1034,
+                    736,
+                    1071
+                ],
+                "score": 0.993,
+                "text": "terminating service to the Target Phone."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    306,
+                    1545,
+                    1436,
+                    1590
+                ],
+                "score": 0.969,
+                "text": "The foregoing is affirmed under the penalties of perjury, pursuant to 28 U.S.C. 8 1746."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    788,
+                    1806,
+                    1223,
+                    1849
+                ],
+                "score": 0.953,
+                "text": "Assistant United States Attorney"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1846,
+                    1201,
+                    1882
+                ],
+                "score": 0.975,
+                "text": "Southern District of New York"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    790,
+                    1883,
+                    1138,
+                    1921
+                ],
+                "score": 0.996,
+                "text": "Telephone: 212-637-2415"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    2031,
+                    308,
+                    2061
+                ],
+                "score": 0.987,
+                "text": "2017.02.06"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1700,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6434,
+                "bbox": [
+                    213,
+                    213,
+                    781,
+                    291
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6313,
+                "bbox": [
+                    967,
+                    157,
+                    1536,
+                    262
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7867,
+                "bbox": [
+                    229,
+                    321,
+                    861,
+                    515
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.619,
+                "bbox": [
+                    996,
+                    394,
+                    1264,
+                    435
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852,
+                "bbox": [
+                    209,
+                    566,
+                    1447,
+                    909
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6016,
+                "bbox": [
+                    305,
+                    938,
+                    891,
+                    980
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6416,
+                "bbox": [
+                    306,
+                    1011,
+                    1031,
+                    1054
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867,
+                "bbox": [
+                    208,
+                    1085,
+                    1470,
+                    1355
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867,
+                "bbox": [
+                    207,
+                    1383,
+                    1474,
+                    1729
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9698,
+                "bbox": [
+                    207,
+                    1805,
+                    1481,
+                    1964
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8814,
+                "bbox": [
+                    211,
+                    2030,
+                    308,
+                    2062
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.865,
+                "bbox": [
+                    834,
+                    1998,
+                    856,
+                    2031
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8819,
+                "bbox": [
+                    1260,
+                    2028,
+                    1482,
+                    2062
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9213,
+                "bbox": [
+                    1463,
+                    2133,
+                    1663,
+                    2168
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.926,
+                "bbox": [
+                    1442,
+                    2199,
+                    1683,
+                    2237
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    215,
+                    214,
+                    743,
+                    251
+                ],
+                "score": 0.975,
+                "text": "UNITED STATES DISTRICT COURT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    217,
+                    252,
+                    779,
+                    287
+                ],
+                "score": 0.956,
+                "text": "SOUTHERN DISTRICT OF NEW YORK"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    306,
+                    933,
+                    520,
+                    983
+                ],
+                "score": 0.993,
+                "text": "Phone number:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    692,
+                    934,
+                    892,
+                    978
+                ],
+                "score": 0.999,
+                "text": "917-520-3106"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    958,
+                    137,
+                    1548,
+                    277
+                ],
+                "score": 0.977,
+                "text": "20MAG00043"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    323,
+                    862,
+                    360
+                ],
+                "score": 0.945,
+                "text": "IN THE MATTER OF AN APPLICATION OF"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    363,
+                    837,
+                    396
+                ],
+                "score": 0.962,
+                "text": "THEUNITEDSTATES OF AMERICA FOR"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    400,
+                    858,
+                    434
+                ],
+                "score": 0.942,
+                "text": "ANORDER AUTHORIZING THE USE OF A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    233,
+                    436,
+                    832,
+                    471
+                ],
+                "score": 0.962,
+                "text": "PEN REGISTER AND TRAP-AND-TRACE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    234,
+                    474,
+                    790,
+                    508
+                ],
+                "score": 0.952,
+                "text": "DEVICE ON A CERTAIN TELEPHONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    310,
+                    1086,
+                    1469,
+                    1126
+                ],
+                "score": 0.965,
+                "text": "WHEREAS the applicant has certified that the information likely to be obtained from the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1161,
+                    1435,
+                    1201
+                ],
+                "score": 0.982,
+                "text": "Requested Pen-Trap is relevant to an ongoing criminal investigation conducted by the Federal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1236,
+                    1384,
+                    1275
+                ],
+                "score": 0.965,
+                "text": "Bureau of Investigation (the \"Investigating Agency\") of FNU LNU and others known and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1310,
+                    1114,
+                    1350
+                ],
+                "score": 0.971,
+                "text": "unknown in connection with possible violations of 21 U.S.C. 8 1591."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1464,
+                    2135,
+                    1663,
+                    2167
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114105"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    998,
+                    393,
+                    1263,
+                    435
+                ],
+                "score": 0.985,
+                "text": "SEALED ORDER"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1261,
+                    2028,
+                    1483,
+                    2063
+                ],
+                "score": 0.993,
+                "text": "SDNY_GM_00000021"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    2201,
+                    1684,
+                    2239
+                ],
+                "score": 0.999,
+                "text": "EFTA01262795"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    307,
+                    1381,
+                    1424,
+                    1428
+                ],
+                "score": 0.97,
+                "text": "IT IS HEREBY ORDERED, pursuant to 18 U.S.C. 88 3121-26, that the Investigating"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1456,
+                    1468,
+                    1501
+                ],
+                "score": 0.983,
+                "text": "Agency may direct the Provider to install the Requested Pen-Trap to identify the phone numbers"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1535,
+                    1339,
+                    1572
+                ],
+                "score": 0.972,
+                "text": "and/or IP addresses and communications ports associated with any phone, text, or data"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1609,
+                    1474,
+                    1645
+                ],
+                "score": 0.973,
+                "text": "communications to or from the Target Phone, along with the date, time, and duration (but not the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1683,
+                    689,
+                    1725
+                ],
+                "score": 0.989,
+                "text": "contents) of such communications; 1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    2029,
+                    310,
+                    2060
+                ],
+                "score": 0.996,
+                "text": "2017.02.06"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    835,
+                    1999,
+                    857,
+                    2033
+                ],
+                "score": 0.999,
+                "text": "1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1806,
+                    1481,
+                    1851
+                ],
+                "score": 0.965,
+                "text": "1 The Provider is not required to provide post-cut-through dialed digits (\"PCTDD\"), or digits that"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1848,
+                    1401,
+                    1885
+                ],
+                "score": 0.964,
+                "text": "are dialed after a telephone call from the Target Phone has been connected. If possible, the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1884,
+                    1465,
+                    1922
+                ],
+                "score": 0.991,
+                "text": "Provider will forward only pre-cut-through-dialed digits to the Investigating Agency. However,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1922,
+                    1480,
+                    1958
+                ],
+                "score": 0.973,
+                "text": "if the Provider's technical capabilities require it to forward all dialed digits, including PCTDD, to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    312,
+                    565,
+                    1359,
+                    607
+                ],
+                "score": 0.969,
+                "text": "WHEREAS an application has been made by Alex Rossmiller, an Assistant U.S."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    639,
+                    1447,
+                    681
+                ],
+                "score": 0.957,
+                "text": "Attorney in the Southern District of New York, pursuant to 18 U.S.C. 8 3121-26, for an order"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    715,
+                    1443,
+                    757
+                ],
+                "score": 0.981,
+                "text": "authorizing the installation and use of a pen register and trap-and-trace device (the \"Requested"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    790,
+                    1391,
+                    828
+                ],
+                "score": 0.966,
+                "text": "Pen-Trap\") on the following phone line (the \"Target Phone\") maintained by T-Mobile (the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    860,
+                    383,
+                    912
+                ],
+                "score": 0.913,
+                "text": "\"Provider\"):"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    1009,
+                    556,
+                    1057
+                ],
+                "score": 0.988,
+                "text": "Subscriber Name:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    696,
+                    1008,
+                    1030,
+                    1052
+                ],
+                "score": 0.975,
+                "text": "TERRAMAR PROJECT"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1700,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9778,
+                "bbox": [
+                    208,
+                    210,
+                    1413,
+                    332
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986,
+                "bbox": [
+                    207,
+                    359,
+                    1404,
+                    631
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9848,
+                "bbox": [
+                    207,
+                    657,
+                    1442,
+                    853
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9771,
+                "bbox": [
+                    208,
+                    880,
+                    1404,
+                    1001
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9833,
+                "bbox": [
+                    206,
+                    1028,
+                    1448,
+                    1226
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9821,
+                "bbox": [
+                    206,
+                    1251,
+                    1454,
+                    1523
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9591,
+                "bbox": [
+                    206,
+                    1880,
+                    1445,
+                    1963
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8484,
+                "bbox": [
+                    210,
+                    2032,
+                    308,
+                    2061
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8671,
+                "bbox": [
+                    831,
+                    1997,
+                    857,
+                    2029
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7479,
+                "bbox": [
+                    1259,
+                    2029,
+                    1484,
+                    2062
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9122,
+                "bbox": [
+                    1463,
+                    2133,
+                    1664,
+                    2168
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9235,
+                "bbox": [
+                    1442,
+                    2199,
+                    1683,
+                    2236
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    208,
+                    1414,
+                    253
+                ],
+                "score": 0.969,
+                "text": "IT IS FURTHER ORDERED, pursuant to 18 U.S.C. $ 3123(c)(1), that the use of the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    287,
+                    1171,
+                    327
+                ],
+                "score": 0.974,
+                "text": "Requested Pen-Trap is authorized for 60 days from the date of this Order;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    304,
+                    878,
+                    1403,
+                    922
+                ],
+                "score": 0.976,
+                "text": "IT IS FURTHER ORDERED that the Provider be compensated by the Investigating"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    957,
+                    1066,
+                    997
+                ],
+                "score": 0.975,
+                "text": "Agency for reasonable expenses incurred in executing this Order;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    303,
+                    1249,
+                    1413,
+                    1294
+                ],
+                "score": 0.968,
+                "text": "IT IS FURTHER ORDERED, pursuant to 18 U.S.C. 8 3123(b), that the Provider not"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1327,
+                    1447,
+                    1369
+                ],
+                "score": 0.988,
+                "text": "disclose the Requested Pen-Trap or the existence of the underlying investigation to any person,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1471,
+                    1370,
+                    1519
+                ],
+                "score": 0.98,
+                "text": "that this Order be sealed until otherwise ordered by this Court, except that copies may be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1396,
+                    1452,
+                    1445
+                ],
+                "score": 0.98,
+                "text": "except as necessary to effectuate this Order, unless or until otherwise ordered by the Court, and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1464,
+                    2135,
+                    1664,
+                    2167
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114106"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1260,
+                    2028,
+                    1485,
+                    2063
+                ],
+                "score": 0.989,
+                "text": "SDNY_GM_00000022"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    2201,
+                    1684,
+                    2239
+                ],
+                "score": 0.999,
+                "text": "EFTA01262796"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    2029,
+                    309,
+                    2061
+                ],
+                "score": 0.986,
+                "text": "2017.02.06"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    831,
+                    1996,
+                    857,
+                    2032
+                ],
+                "score": 0.996,
+                "text": "2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    358,
+                    1400,
+                    400
+                ],
+                "score": 0.974,
+                "text": "IT IS FURTHER ORDERED, pursuant to 18 U.S.C. $ 3123(b)(2), that the Provider"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    436,
+                    1347,
+                    474
+                ],
+                "score": 0.977,
+                "text": "furnish any information, facilities, and technical assistance necessary to accomplish the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    586,
+                    595,
+                    629
+                ],
+                "score": 0.979,
+                "text": "disruption of normal service;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    505,
+                    1402,
+                    551
+                ],
+                "score": 0.977,
+                "text": "installation and operation of the Requested Pen-Trap unobtrusively and with a minimum of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    305,
+                    657,
+                    1354,
+                    696
+                ],
+                "score": 0.98,
+                "text": "IT IS FURTHER ORDERED that the results of the Requested Pen-Trap shall be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    731,
+                    1441,
+                    771
+                ],
+                "score": 0.987,
+                "text": "furnished to the Investigating Agency at reasonable intervals during regular business hours for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    808,
+                    559,
+                    850
+                ],
+                "score": 0.99,
+                "text": "the duration of this Order;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    304,
+                    1027,
+                    1428,
+                    1071
+                ],
+                "score": 0.975,
+                "text": "IT IS FURTHER ORDERED that the Provider notify the Investigating Agency of any"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1104,
+                    1447,
+                    1144
+                ],
+                "score": 0.994,
+                "text": "changes relating to the Target Phone, including changes to subscriber information, and provide"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1174,
+                    1411,
+                    1222
+                ],
+                "score": 0.982,
+                "text": "prior notice to the Investigating Agency before terminating service to the Target Phone; and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1879,
+                    1444,
+                    1926
+                ],
+                "score": 0.956,
+                "text": "the Investigating Agency, the Investigating Agency willonly decode and forward to the agents"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1917,
+                    1338,
+                    1964
+                ],
+                "score": 0.953,
+                "text": "assigned to the investigation, the numbers that are dialed before the call is cut through."
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1700,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6913,
+                "bbox": [
+                    211,
+                    211,
+                    1436,
+                    259
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6927,
+                "bbox": [
+                    211,
+                    291,
+                    510,
+                    336
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9468,
+                "bbox": [
+                    211,
+                    363,
+                    611,
+                    443
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9298,
+                "bbox": [
+                    390,
+                    482,
+                    613,
+                    538
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7295,
+                "bbox": [
+                    694,
+                    471,
+                    1299,
+                    513
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6305,
+                "bbox": [
+                    694,
+                    510,
+                    1282,
+                    550
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6185,
+                "bbox": [
+                    694,
+                    546,
+                    1266,
+                    588
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9201,
+                "bbox": [
+                    214,
+                    2036,
+                    310,
+                    2064
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8791,
+                "bbox": [
+                    835,
+                    1999,
+                    860,
+                    2033
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9338,
+                "bbox": [
+                    1261,
+                    2030,
+                    1484,
+                    2061
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9401,
+                "bbox": [
+                    1463,
+                    2133,
+                    1663,
+                    2167
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9457,
+                "bbox": [
+                    1443,
+                    2199,
+                    1682,
+                    2236
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    694,
+                    504,
+                    1281,
+                    549
+                ],
+                "score": 0.956,
+                "text": "UNITED STATES MACISTRATEJUDGE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    695,
+                    541,
+                    1264,
+                    588
+                ],
+                "score": 0.96,
+                "text": "SOUTHERN DISTRICT OFNEW YORK"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    364,
+                    609,
+                    403
+                ],
+                "score": 0.967,
+                "text": "Dated: New York, New York"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    402,
+                    600,
+                    441
+                ],
+                "score": 0.935,
+                "text": "December 31, 2019-"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1464,
+                    2135,
+                    1663,
+                    2167
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114107"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    389,
+                    472,
+                    619,
+                    545
+                ],
+                "score": 0.855,
+                "text": "UAN 02 2020."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1261,
+                    2030,
+                    1484,
+                    2062
+                ],
+                "score": 0.999,
+                "text": "SDNY_GM_00000023"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    2201,
+                    1684,
+                    2239
+                ],
+                "score": 0.998,
+                "text": "EFTA01262797"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    287,
+                    509,
+                    338
+                ],
+                "score": 0.95,
+                "text": "Investigating Agency."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    835,
+                    1998,
+                    861,
+                    2035
+                ],
+                "score": 0.999,
+                "text": "3"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    214,
+                    2035,
+                    311,
+                    2064
+                ],
+                "score": 0.989,
+                "text": "2017.02.06"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    207,
+                    1438,
+                    259
+                ],
+                "score": 0.926,
+                "text": "retained by the United States Attoney's Office for the Southern District of New York and the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    697,
+                    468,
+                    1300,
+                    513
+                ],
+                "score": 0.99,
+                "text": "THEHONORABLESTEWARTD.AARON"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1700,
+            "height": 2250
+        }
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="label" attr.type="string"/>
+<key id="d2" for="edge" attr.name="predicates" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="frequencia" attr.type="long"/>
+<graph edgedefault="directed"><node id="Alex Rossmiller">
+  <data key="d0">1</data>
+</node>
+<node id="Geoffrey S. Berman">
+  <data key="d0">2</data>
+</node>
+<node id="Epstein">
+  <data key="d0">2</data>
+</node>
+<node id="Jeffrey Epstein">
+  <data key="d0">4</data>
+</node>
+<node id="Barbara Moses">
+  <data key="d0">1</data>
+</node>
+<edge source="Alex Rossmiller" target="Geoffrey S. Berman">
+  <data key="d1">1</data>
+  <data key="d2">trabalhou com</data>
+  <data key="d3">trabalhou com</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="Jeffrey Epstein">
+  <data key="d1">1</data>
+  <data key="d2">foi mencionado com</data>
+  <data key="d3">foi mencionado com</data>
+</edge>
+<edge source="Epstein" target="Jeffrey Epstein">
+  <data key="d1">2</data>
+  <data key="d2">foi mencionado com; trabalhou com</data>
+  <data key="d3">foi mencionado com, trabalhou com</data>
+</edge>
+<edge source="Barbara Moses" target="Jeffrey Epstein">
+  <data key="d1">1</data>
+  <data key="d2">foi mencionado com</data>
+  <data key="d3">foi mencionado com</data>
+</edge>
+</graph></graphml>

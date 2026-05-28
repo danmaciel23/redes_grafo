@@ -13,8 +13,8 @@ from selenium.common.exceptions import TimeoutException
 from webdriver_manager.chrome import ChromeDriverManager
 
 BASE_URL    = "https://www.justice.gov"
-START_URL   = "https://www.justice.gov/epstein/doj-disclosures/data-set-12-files"
-OUTPUT_DIR  = "dataset12_pdfs"
+START_URL   = "https://www.justice.gov/epstein/doj-disclosures/data-set-6-files"
+OUTPUT_DIR  = "dataset6_pdfs"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -167,7 +167,7 @@ def download_pdf(url, output_dir, session, referer):
 
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 def main():
-    print("=== DOJ Epstein Library - Data Set 12 Downloader v3 (Selenium) ===")
+    print("=== DOJ Epstein Library - Data Set 6 Downloader v3 (Selenium) ===")
     print(f"Diretorio de saida: {os.path.abspath(OUTPUT_DIR)}\n")
 
     print("Iniciando Chrome via Selenium...")

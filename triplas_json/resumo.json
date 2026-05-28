@@ -1,0 +1,216 @@
+{
+  "prompt": "Você é um sistema de extração de grafos de conhecimento. Sua tarefa é analisar textos e extrair triplas de conhecimento em português.\n\nExtraia entidades e relacionamentos que representem conhecimento factual do texto fornecido. Foque em:\n- Pessoas, organizações, locais\n- Eventos, datas, ações\n- Relações causais\n- Relações de parte-todo\n- Quaisquer afirmações factuais\n\nTodas as triplas devem estar em PORTUGUÊS. Use português para sujeitos, predicados e objetos.\nExemplos de predicados em português: \"mora em\", \"trabalha para\", \"fundou\", \"acusado de\", \"responsável por\", etc.\n\nRetorne APENAS um array JSON válido de triplas, sem texto adicional. Cada tripla deve ser:\n[\"sujeito\", \"predicado\", \"objeto\"]\n\nExemplo de formato de saída:\n[[\"João\", \"mora em\", \"Nova York\"], [\"Microsoft\", \"adquiriu\", \"GitHub\"], [\"Epstein\", \"foi acusado de\", \"tráfico\"]]\n\nSe nenhuma tripla significativa for encontrada, retorne um array vazio: []",
+  "prompt_template": "Extraia triplas de conhecimento do seguinte texto:\n\n{content}\n\nRetorne APENAS um array JSON de triplas no formato: [[\"sujeito\", \"predicado\", \"objeto\"], ...]",
+  "mineru_dir": "D:\\redes_grafo\\epstein_graph\\mineru_output",
+  "markdowns_processados": [
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262782\\auto\\EFTA01262782.md",
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262784\\auto\\EFTA01262784.md",
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262791\\auto\\EFTA01262791.md",
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262798\\auto\\EFTA01262798.md",
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262805\\auto\\EFTA01262805.md",
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262829\\auto\\EFTA01262829.md",
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262863\\auto\\EFTA01262863.md",
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262891\\auto\\EFTA01262891.md",
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262895\\auto\\EFTA01262895.md",
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262900\\auto\\EFTA01262900.md",
+    "D:\\redes_grafo\\epstein_graph\\mineru_output\\EFTA01262956\\auto\\EFTA01262956.md"
+  ],
+  "quantidade_markdowns": 11,
+  "quantidade_triplas_consolidadas": 211,
+  "quantidade_conexoes_pessoa_pessoa": 5,
+  "triplas_por_documento": {
+    "EFTA01262782": 5,
+    "EFTA01262784": 2,
+    "EFTA01262791": 11,
+    "EFTA01262798": 15,
+    "EFTA01262805": 58,
+    "EFTA01262829": 55,
+    "EFTA01262863": 58,
+    "EFTA01262891": 4,
+    "EFTA01262895": 5,
+    "EFTA01262900": 114,
+    "EFTA01262956": 12
+  },
+  "pessoas_mais_mencionadas": [
+    [
+      "Geoffrey S. Berman",
+      6
+    ],
+    [
+      "Jeffrey Epstein",
+      5
+    ],
+    [
+      "Epstein",
+      4
+    ],
+    [
+      "for the",
+      4
+    ],
+    [
+      "Barbara Moses",
+      4
+    ],
+    [
+      "JEFEREY EPsTEIN",
+      3
+    ],
+    [
+      "R. Crim",
+      3
+    ],
+    [
+      "Jeferey Epstein",
+      3
+    ],
+    [
+      "Alex Rossmiller",
+      2
+    ],
+    [
+      "In the Matter of the Search of (Briefly describe the property to be searched or identify the person by name and address",
+      2
+    ],
+    [
+      "Henry Pitman",
+      2
+    ],
+    [
+      "Maxwell",
+      1
+    ],
+    [
+      "Ghislaine Maxwell",
+      1
+    ],
+    [
+      "Robert W. Lehrburger THEHONORABLEROBERTW",
+      1
+    ],
+    [
+      "In The Matter Of An Application Of The United States Of America For An Order Authorizing The Use Of A Pen Register And Trap-And-Trace Device On A Certain Telephone",
+      1
+    ],
+    [
+      "In The Matter Of Anapplication Of The United States Of America For An Order Authorizing The Use Ofa Penregisterand Trap-And-Trace Device On A Certain Telephone",
+      1
+    ],
+    [
+      "Alex Rossmiller hereby affirms, under penalty of perjury, as follows",
+      1
+    ],
+    [
+      "Debra Freeman",
+      1
+    ],
+    [
+      "GEOFFREY S. BERMAN United",
+      1
+    ],
+    [
+      "JErFREy EPsTEIN",
+      1
+    ],
+    [
+      "Barbare Moses",
+      1
+    ],
+    [
+      "identi te erson",
+      1
+    ],
+    [
+      "Bam GEOFFREY S. BERMAN United",
+      1
+    ],
+    [
+      "Zorro Pics",
+      1
+    ],
+    [
+      "Leslie Adamczyk",
+      1
+    ],
+    [
+      "ts reu",
+      1
+    ],
+    [
+      "anauthorie theofficerexecuting",
+      1
+    ],
+    [
+      "Specia aent d",
+      1
+    ],
+    [
+      "JEFFREY EPS'TEIN's",
+      1
+    ],
+    [
+      "Henry B. Pitman",
+      1
+    ],
+    [
+      "thorized belo",
+      1
+    ],
+    [
+      "the Subject Items",
+      1
+    ],
+    [
+      "menoffcrao f ho",
+      1
+    ],
+    [
+      "Cnhiant Ttome",
+      1
+    ],
+    [
+      "Dana Zorro Pics",
+      1
+    ],
+    [
+      "Kevin Nathaniel Fox",
+      1
+    ],
+    [
+      "Jeffrey Epsteln",
+      1
+    ],
+    [
+      "Specia Aget",
+      1
+    ],
+    [
+      "b. Bvidence",
+      1
+    ],
+    [
+      "MSpeil Aent Ke Mayuiref",
+      1
+    ],
+    [
+      "See Attachment A",
+      1
+    ],
+    [
+      "Apeint Kel Mauire",
+      1
+    ],
+    [
+      "anentor shuldefedundr",
+      1
+    ],
+    [
+      "justifyingthelatetspecif dateof",
+      1
+    ],
+    [
+      "ti thepersoor sieepe",
+      1
+    ]
+  ]
+}

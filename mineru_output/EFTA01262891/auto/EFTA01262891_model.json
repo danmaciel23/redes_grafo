@@ -1,0 +1,2319 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9529,
+                "bbox": [
+                    126,
+                    99,
+                    619,
+                    131
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9477,
+                "bbox": [
+                    845,
+                    43,
+                    1148,
+                    123
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.8646,
+                "bbox": [
+                    485,
+                    182,
+                    1210,
+                    239
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8002,
+                "bbox": [
+                    171,
+                    156,
+                    444,
+                    362
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8759,
+                "bbox": [
+                    652,
+                    254,
+                    1026,
+                    334
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.958,
+                "bbox": [
+                    226,
+                    372,
+                    672,
+                    473
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8887,
+                "bbox": [
+                    338,
+                    494,
+                    566,
+                    528
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7648,
+                "bbox": [
+                    908,
+                    443,
+                    1022,
+                    478
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7817,
+                "bbox": [
+                    977,
+                    477,
+                    1230,
+                    565
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8995,
+                "bbox": [
+                    1289,
+                    488,
+                    1518,
+                    587
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.8221,
+                "bbox": [
+                    547,
+                    612,
+                    1140,
+                    652
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8816,
+                "bbox": [
+                    121,
+                    680,
+                    702,
+                    716
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979,
+                "bbox": [
+                    118,
+                    744,
+                    1571,
+                    851
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9291,
+                "bbox": [
+                    133,
+                    866,
+                    362,
+                    899
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9631,
+                "bbox": [
+                    117,
+                    931,
+                    1588,
+                    1000
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8351,
+                "bbox": [
+                    132,
+                    1015,
+                    360,
+                    1049
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9577,
+                "bbox": [
+                    212,
+                    1111,
+                    1097,
+                    1148
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6194,
+                "bbox": [
+                    133,
+                    1165,
+                    891,
+                    1205
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9741,
+                "bbox": [
+                    117,
+                    1231,
+                    1541,
+                    1302
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8598,
+                "bbox": [
+                    214,
+                    1303,
+                    1382,
+                    1344
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5708,
+                "bbox": [
+                    1186,
+                    1346,
+                    1420,
+                    1376
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7991,
+                "bbox": [
+                    178,
+                    1368,
+                    1518,
+                    1438
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9808,
+                "bbox": [
+                    117,
+                    1442,
+                    1513,
+                    1547
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8775,
+                "bbox": [
+                    117,
+                    1560,
+                    1506,
+                    1629
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5268,
+                "bbox": [
+                    173,
+                    1627,
+                    1492,
+                    1665
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5597,
+                "bbox": [
+                    1349,
+                    1662,
+                    1496,
+                    1693
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.98,
+                "bbox": [
+                    115,
+                    1711,
+                    1518,
+                    1818
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9478,
+                "bbox": [
+                    632,
+                    1825,
+                    1531,
+                    1865
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6091,
+                "bbox": [
+                    118,
+                    1866,
+                    1284,
+                    1975
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9324,
+                "bbox": [
+                    116,
+                    2007,
+                    696,
+                    2047
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8822,
+                "bbox": [
+                    764,
+                    2007,
+                    1487,
+                    2077
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9484,
+                "bbox": [
+                    1467,
+                    2133,
+                    1666,
+                    2167
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9421,
+                "bbox": [
+                    1445,
+                    2199,
+                    1682,
+                    2236
+                ],
+                "index": 33
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    98,
+                    620,
+                    132
+                ],
+                "score": 0.975,
+                "text": "AO 93 (SDNY Rev. 01/17) Search and Seizure Warrant"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    836,
+                    34,
+                    1159,
+                    136
+                ],
+                "score": 0.996,
+                "text": "ORIGINAL"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    482,
+                    177,
+                    1212,
+                    247
+                ],
+                "score": 0.888,
+                "text": "UNITED STATES DISTRICT COURT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    899,
+                    2007,
+                    1439,
+                    2043
+                ],
+                "score": 0.983,
+                "text": "Hon. Barbara Moses, U.S. Magistrate Judge"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1262,
+                    2030,
+                    1492,
+                    2059
+                ],
+                "score": 0.94,
+                "text": "SDNYGM_00000134"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1054,
+                    2044,
+                    1283,
+                    2076
+                ],
+                "score": 0.989,
+                "text": "Printed name and title"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    120,
+                    194,
+                    503,
+                    320
+                ],
+                "score": 0.726,
+                "text": "D0c2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    800,
+                    247,
+                    895,
+                    293
+                ],
+                "score": 0.991,
+                "text": "for the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    652,
+                    291,
+                    1029,
+                    335
+                ],
+                "score": 0.982,
+                "text": "Southern District of New York"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    268,
+                    371,
+                    630,
+                    408
+                ],
+                "score": 0.977,
+                "text": "In the Matter of the Search of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    410,
+                    672,
+                    444
+                ],
+                "score": 0.983,
+                "text": "(Briefly describe the property to be searched"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    231,
+                    438,
+                    668,
+                    474
+                ],
+                "score": 0.98,
+                "text": "or identify the person by name and address)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    338,
+                    490,
+                    568,
+                    532
+                ],
+                "score": 0.962,
+                "text": "See Attachment A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    958,
+                    465,
+                    1243,
+                    580
+                ],
+                "score": 0.966,
+                "text": "19MAG"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    859,
+                    363,
+                    903
+                ],
+                "score": 0.985,
+                "text": "See Attachment A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1009,
+                    363,
+                    1053
+                ],
+                "score": 0.984,
+                "text": "See Attachment A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1184,
+                    1340,
+                    1421,
+                    1383
+                ],
+                "score": 0.981,
+                "text": "(not to exceed 14 days)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1447,
+                    2201,
+                    1686,
+                    2239
+                ],
+                "score": 0.998,
+                "text": "EFTA01262891"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    903,
+                    434,
+                    1032,
+                    485
+                ],
+                "score": 0.984,
+                "text": "Case No."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1348,
+                    1657,
+                    1497,
+                    1695
+                ],
+                "score": 0.878,
+                "text": "USMJ Initials"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1275,
+                    462,
+                    1550,
+                    618
+                ],
+                "score": 0.999,
+                "text": "6571"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    548,
+                    609,
+                    1140,
+                    656
+                ],
+                "score": 0.936,
+                "text": "SEARCH AND SEIZURE WARRANT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    676,
+                    181,
+                    717
+                ],
+                "score": 0.985,
+                "text": "To:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    215,
+                    676,
+                    704,
+                    720
+                ],
+                "score": 0.94,
+                "text": "Any authorized law enforcement officer"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    1999,
+                    515,
+                    2049
+                ],
+                "score": 0.955,
+                "text": "City and state:New York, NY"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    739,
+                    1478,
+                    785
+                ],
+                "score": 0.968,
+                "text": "An application by a federal law enforcement officer or an attorney for the government requests the search"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    774,
+                    718,
+                    816
+                ],
+                "score": 0.965,
+                "text": "of the following person or property located in the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    778,
+                    937,
+                    819
+                ],
+                "score": 0.996,
+                "text": "Southem"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1015,
+                    779,
+                    1151,
+                    816
+                ],
+                "score": 0.986,
+                "text": "District of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1296,
+                    780,
+                    1432,
+                    826
+                ],
+                "score": 0.947,
+                "text": "New York"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    812,
+                    926,
+                    851
+                ],
+                "score": 0.989,
+                "text": "(identify the person or describe the property to be searched and give its location):"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    962,
+                    264,
+                    1005
+                ],
+                "score": 0.979,
+                "text": "to be seized):"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    214,
+                    926,
+                    1594,
+                    974
+                ],
+                "score": 0.863,
+                "text": "The person or propery to be searched, described above, is believed to conceal (identiy the person or deseribe the propery"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    1103,
+                    1099,
+                    1154
+                ],
+                "score": 0.875,
+                "text": "The search and seizure are related to violation(s) of (inser stantory citarions):"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    636,
+                    1823,
+                    1263,
+                    1864
+                ],
+                "score": 0.98,
+                "text": "until, the facts justifying, the later specific date of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    1159,
+                    893,
+                    1208
+                ],
+                "score": 0.982,
+                "text": "Title 18, United States Code, Sections 371 and 1591"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1223,
+                    1545,
+                    1276
+                ],
+                "score": 0.932,
+                "text": "I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    115,
+                    1261,
+                    243,
+                    1311
+                ],
+                "score": 0.986,
+                "text": "property."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    1553,
+                    1510,
+                    1603
+                ],
+                "score": 0.909,
+                "text": "The officer executing this warrant, or an officer present during the execution of the warrant, must prepare an"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    117,
+                    1591,
+                    1334,
+                    1635
+                ],
+                "score": 0.98,
+                "text": "inventory as required by law and promptly return this warrant and inventory to the Clerk of the Court."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    1302,
+                    1001,
+                    1348
+                ],
+                "score": 0.955,
+                "text": "YOU ARE COMMANDED to execute this warrant on or before"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1209,
+                    1293,
+                    1387,
+                    1341
+                ],
+                "score": 0.976,
+                "text": "July 21, 2019"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    177,
+                    1363,
+                    649,
+                    1411
+                ],
+                "score": 0.945,
+                "text": " in the daytime 6:00 a.m. to 10 p.m."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    685,
+                    1360,
+                    1527,
+                    1419
+                ],
+                "score": 0.559,
+                "text": "a an  in thy r nig as eoabecaseas e"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    735,
+                    1404,
+                    881,
+                    1438
+                ],
+                "score": 0.998,
+                "text": "established."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    172,
+                    1614,
+                    1351,
+                    1670
+                ],
+                "score": 0.658,
+                "text": "Upon ts reu, this warant and entoy shul e fil nder se y heCler of theCou."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1474,
+                    1510,
+                    1518
+                ],
+                "score": 0.967,
+                "text": "taken to the person from whom, or from whose premises, the property was taken, or leave the copy and receipt at the"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    1512,
+                    552,
+                    1547
+                ],
+                "score": 0.992,
+                "text": "place where the property was taken."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1437,
+                    1515,
+                    1483
+                ],
+                "score": 0.895,
+                "text": "Unless delayed notice is authorized below, you must give a copy of the warrant and a receipt for the property"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    176,
+                    1704,
+                    1465,
+                    1755
+                ],
+                "score": 0.868,
+                "text": "I find that immediate notification may have an adverse result isted in 18 U..C. 2705 (except for delay"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    116,
+                    1744,
+                    1518,
+                    1787
+                ],
+                "score": 0.917,
+                "text": "of trial), and authorize the officer executing this warrant to delay notice to the person who, or whose property, will be"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    118,
+                    1779,
+                    708,
+                    1819
+                ],
+                "score": 0.974,
+                "text": "searched or seized (check the appropriate box) for"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    815,
+                    1781,
+                    1068,
+                    1821
+                ],
+                "score": 0.995,
+                "text": "days (not to exceed 30)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    109,
+                    1888,
+                    770,
+                    1948
+                ],
+                "score": 0.808,
+                "text": "Date and time issued:77-1911.33P.M."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1072,
+                    1942,
+                    1263,
+                    1980
+                ],
+                "score": 0.918,
+                "text": "Judge % signature"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1467,
+                    2135,
+                    1667,
+                    2167
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114218"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1703,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5703,
+                "bbox": [
+                    130,
+                    102,
+                    704,
+                    137
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9875,
+                "bbox": [
+                    122,
+                    140,
+                    1572,
+                    1920
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=3>Return</td></tr><tr><td rowspan=1 colspan=1>Case No.:</td><td rowspan=1 colspan=1>Date and time warrant executed:</td><td rowspan=1 colspan=1>Copy of warrant and inventory left with:</td></tr><tr><td rowspan=1 colspan=3>Inventory made in the presence of :</td></tr><tr><td rowspan=1 colspan=3>Certification</td></tr><tr><td rowspan=1 colspan=3>I declare under penalty of perjury that this inventory is coect and was returned along with the original warantto the Court.Date:Executing officer&#x27;s signaturePrinted name and title</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.6258,
+                "bbox": [
+                    1263,
+                    2029,
+                    1487,
+                    2061
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9108,
+                "bbox": [
+                    1466,
+                    2133,
+                    1666,
+                    2167
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9276,
+                "bbox": [
+                    1445,
+                    2199,
+                    1686,
+                    2236
+                ],
+                "index": 5
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1264,
+                    2028,
+                    1489,
+                    2063
+                ],
+                "score": 0.999,
+                "text": "SDNY_GM_00000135"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1447,
+                    2201,
+                    1687,
+                    2239
+                ],
+                "score": 0.998,
+                "text": "EFTA01262892"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    98,
+                    704,
+                    140
+                ],
+                "score": 0.928,
+                "text": "AO 93 (SDNY Rev. 01/17) Search and Seizure Warrant(Page 2)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1467,
+                    2135,
+                    1667,
+                    2167
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114219"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1703,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.6589,
+                "bbox": [
+                    710,
+                    209,
+                    990,
+                    251
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9548,
+                "bbox": [
+                    212,
+                    279,
+                    766,
+                    321
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9804,
+                "bbox": [
+                    210,
+                    349,
+                    1486,
+                    466
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9484,
+                "bbox": [
+                    213,
+                    497,
+                    537,
+                    537
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9538,
+                "bbox": [
+                    258,
+                    569,
+                    1194,
+                    610
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9808,
+                "bbox": [
+                    210,
+                    643,
+                    1485,
+                    762
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9708,
+                "bbox": [
+                    210,
+                    787,
+                    1483,
+                    866
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9522,
+                "bbox": [
+                    304,
+                    893,
+                    1358,
+                    936
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9733,
+                "bbox": [
+                    210,
+                    962,
+                    1482,
+                    1044
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.974,
+                "bbox": [
+                    208,
+                    1069,
+                    1482,
+                    1151
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9862,
+                "bbox": [
+                    208,
+                    1176,
+                    1484,
+                    1371
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9721,
+                "bbox": [
+                    208,
+                    1394,
+                    1481,
+                    1475
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9451,
+                "bbox": [
+                    258,
+                    1501,
+                    523,
+                    1541
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865,
+                "bbox": [
+                    207,
+                    1570,
+                    1483,
+                    1801
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9793,
+                "bbox": [
+                    207,
+                    1832,
+                    1483,
+                    1950
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8552,
+                "bbox": [
+                    211,
+                    1987,
+                    332,
+                    2021
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7454,
+                "bbox": [
+                    1262,
+                    2029,
+                    1488,
+                    2063
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9093,
+                "bbox": [
+                    1465,
+                    2133,
+                    1666,
+                    2168
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9249,
+                "bbox": [
+                    1444,
+                    2199,
+                    1686,
+                    2236
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    215,
+                    494,
+                    535,
+                    538
+                ],
+                "score": 0.982,
+                "text": "II. Items to Be Seized"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    715,
+                    211,
+                    988,
+                    252
+                ],
+                "score": 0.968,
+                "text": "ATTACHMENT A"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    257,
+                    1496,
+                    524,
+                    1542
+                ],
+                "score": 0.956,
+                "text": "B. Review of ESI"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1263,
+                    2028,
+                    1489,
+                    2063
+                ],
+                "score": 0.998,
+                "text": "SDNY_GM_00000136"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1446,
+                    2201,
+                    1686,
+                    2239
+                ],
+                "score": 0.998,
+                "text": "EFTA01262893"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1983,
+                    333,
+                    2023
+                ],
+                "score": 0.999,
+                "text": "2017.08.02"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    217,
+                    278,
+                    763,
+                    319
+                ],
+                "score": 0.984,
+                "text": "I. The Subject Devices to Be Searched"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1467,
+                    2133,
+                    1668,
+                    2168
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114220"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    311,
+                    345,
+                    1484,
+                    393
+                ],
+                "score": 0.978,
+                "text": "The Subject Devices are particularly described as compact discs stored in containers"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    382,
+                    1486,
+                    430
+                ],
+                "score": 0.984,
+                "text": "marked with FBI evidence numbers 15, 16, 17, 18, and 22, seized from the residence located at 9"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    214,
+                    419,
+                    1066,
+                    467
+                ],
+                "score": 0.968,
+                "text": "East 71st Street, New York, New York, on or about July 7, 2019."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    310,
+                    638,
+                    1486,
+                    687
+                ],
+                "score": 0.962,
+                "text": "This warant authorizes the seizure of certain evidence, fruits, and instrumentalities of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    214,
+                    676,
+                    1484,
+                    726
+                ],
+                "score": 0.956,
+                "text": "violations of Title 18, United States Code, Sections 1591 (sex trafficking of minors), and 371 (sex"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    716,
+                    1127,
+                    761
+                ],
+                "score": 0.962,
+                "text": "trafficking conspiracy) (the \"Subject Offenses\") described as follows:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    307,
+                    1830,
+                    1481,
+                    1875
+                ],
+                "score": 0.994,
+                "text": "In conducting this review, law enforcement personnel may use various techniques to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    214,
+                    1870,
+                    1480,
+                    1910
+                ],
+                "score": 0.971,
+                "text": "determine which files or other ESI contain evidence or fruits of the Subject Offenses. Such"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    214,
+                    1908,
+                    707,
+                    1948
+                ],
+                "score": 0.996,
+                "text": "techniques may include, for example:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    565,
+                    1192,
+                    611
+                ],
+                "score": 0.984,
+                "text": "A. Evidence, Fruits, and Instrumentalities of the Subject Offenses"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    310,
+                    788,
+                    352,
+                    824
+                ],
+                "score": 0.978,
+                "text": "1."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    401,
+                    782,
+                    1484,
+                    832
+                ],
+                "score": 0.982,
+                "text": "Any documents or communications with or regarding victims or potential victims"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    816,
+                    537,
+                    869
+                ],
+                "score": 0.96,
+                "text": "of the Subject Offenses;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    307,
+                    960,
+                    354,
+                    1002
+                ],
+                "score": 0.981,
+                "text": "3."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    402,
+                    958,
+                    1483,
+                    1010
+                ],
+                "score": 0.977,
+                "text": "Any nude, partially nude, or sexually suggestive photographs of individuals who"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    214,
+                    998,
+                    720,
+                    1044
+                ],
+                "score": 0.982,
+                "text": "appear to be teenage girls, or younger;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    1070,
+                    346,
+                    1107
+                ],
+                "score": 0.995,
+                "text": "4."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    403,
+                    1065,
+                    1482,
+                    1115
+                ],
+                "score": 0.919,
+                "text": "Motion pictures, films, videos, and other recordings of visual or written depictions"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1103,
+                    1287,
+                    1153
+                ],
+                "score": 0.978,
+                "text": "of minors engaged in sexually explicit conduct, as defined in 18 U.S.C. s 2256(2);"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    1395,
+                    346,
+                    1432
+                ],
+                "score": 0.993,
+                "text": "6."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    404,
+                    1394,
+                    1481,
+                    1436
+                ],
+                "score": 0.987,
+                "text": "Any child erotica, defined as suggestive visual depictions of nude minors that do"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1430,
+                    1100,
+                    1476
+                ],
+                "score": 0.974,
+                "text": "not constitute child pornography as defined by 18 U.S.C. $ 2256(8)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    311,
+                    890,
+                    357,
+                    936
+                ],
+                "score": 0.93,
+                "text": "2."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    378,
+                    886,
+                    1357,
+                    939
+                ],
+                "score": 0.966,
+                "text": "Any photographs of victims or potential victims of the Subject Offnses;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    1173,
+                    350,
+                    1215
+                ],
+                "score": 0.992,
+                "text": "5."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    403,
+                    1175,
+                    1482,
+                    1217
+                ],
+                "score": 0.981,
+                "text": "Records or other items that evidence ownership, control, or use of, or access to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1213,
+                    1482,
+                    1256
+                ],
+                "score": 0.982,
+                "text": "devices, storage media, and related electronic equipment used to access, transmit, or store"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1249,
+                    1480,
+                    1293
+                ],
+                "score": 0.971,
+                "text": "information relating to the Subject Offenses, including, but not limited to, sales receipts,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1287,
+                    1482,
+                    1330
+                ],
+                "score": 0.967,
+                "text": "warranties, bills for Internet access, handwritten notes, registry entries, configuration files, saved"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1325,
+                    1185,
+                    1370
+                ],
+                "score": 0.987,
+                "text": "usernames and passwords, user profiles, e-mail contacts, and photographs;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    307,
+                    1568,
+                    1481,
+                    1615
+                ],
+                "score": 0.914,
+                "text": "Law enforcement personnel (including, in addition to law enforcement officers and agents,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1604,
+                    1481,
+                    1654
+                ],
+                "score": 0.944,
+                "text": "and depending on the nature of the ESI and the status of the investigation and related proceedings,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1643,
+                    1481,
+                    1691
+                ],
+                "score": 0.95,
+                "text": "attorneys for the government, attorney support staff, agency personnel assisting the government in"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1680,
+                    1481,
+                    1724
+                ],
+                "score": 0.973,
+                "text": "this investigation, and outside technical experts under government control) will create a forensic"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    1721,
+                    1481,
+                    1763
+                ],
+                "score": 0.974,
+                "text": "image of the Subject Devices (if practicable) and review the ESI contained therein for information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1758,
+                    556,
+                    1800
+                ],
+                "score": 0.996,
+                "text": "responsive to the warrant."
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1703,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9736,
+                "bbox": [
+                    310,
+                    250,
+                    1485,
+                    368
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9737,
+                "bbox": [
+                    309,
+                    397,
+                    1484,
+                    517
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9644,
+                "bbox": [
+                    309,
+                    543,
+                    1483,
+                    624
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9754,
+                "bbox": [
+                    309,
+                    654,
+                    1485,
+                    769
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.966,
+                "bbox": [
+                    308,
+                    799,
+                    1481,
+                    880
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9827,
+                "bbox": [
+                    207,
+                    905,
+                    1484,
+                    1099
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 10,
+                "label": "footnote",
+                "score": 0.9749,
+                "bbox": [
+                    204,
+                    1749,
+                    1479,
+                    1944
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.894,
+                "bbox": [
+                    207,
+                    1987,
+                    329,
+                    2022
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8711,
+                "bbox": [
+                    829,
+                    1957,
+                    856,
+                    1991
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.876,
+                "bbox": [
+                    1261,
+                    2028,
+                    1487,
+                    2063
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.921,
+                "bbox": [
+                    1465,
+                    2132,
+                    1664,
+                    2168
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9346,
+                "bbox": [
+                    1445,
+                    2199,
+                    1686,
+                    2237
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1263,
+                    2028,
+                    1486,
+                    2063
+                ],
+                "score": 0.998,
+                "text": "SDNY_GM_00000137"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1447,
+                    2201,
+                    1687,
+                    2239
+                ],
+                "score": 0.997,
+                "text": "EFTA01262894"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1982,
+                    332,
+                    2024
+                ],
+                "score": 0.997,
+                "text": "2017.08.02"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    334,
+                    535,
+                    1484,
+                    594
+                ],
+                "score": 0.899,
+                "text": "\"scanning\"” storage areas to discover and posibly recover recently deleted data or"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    356,
+                    579,
+                    746,
+                    621
+                ],
+                "score": 0.985,
+                "text": "deliberately hidden files; and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    329,
+                    791,
+                    1479,
+                    848
+                ],
+                "score": 0.834,
+                "text": "reviewing metadat,system information,configurationfiles,registydata,and ay"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    357,
+                    833,
+                    1375,
+                    880
+                ],
+                "score": 0.972,
+                "text": "other information refl ecting how, when, and by whom the computer was used."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    354,
+                    244,
+                    1484,
+                    299
+                ],
+                "score": 0.902,
+                "text": "surveying directories or folders and the individual files they contain (analogous to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    360,
+                    321,
+                    823,
+                    367
+                ],
+                "score": 0.993,
+                "text": "believed to contain pertinent files);"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    360,
+                    289,
+                    1483,
+                    328
+                ],
+                "score": 0.979,
+                "text": "looking at the outside of a file cabinet for the markings it contains and opening a drawer"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    353,
+                    392,
+                    1484,
+                    444
+                ],
+                "score": 0.894,
+                "text": "conducting a file-by-file review by \"pening\" or reading the first few \"pages\" of such"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    358,
+                    468,
+                    1336,
+                    518
+                ],
+                "score": 0.962,
+                "text": "examination of each document in a file cabinet to determine its relevance);"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    359,
+                    435,
+                    1480,
+                    478
+                ],
+                "score": 0.982,
+                "text": "files in order to determine their precise contents (analogous to performing a cursory"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    350,
+                    649,
+                    1483,
+                    699
+                ],
+                "score": 0.982,
+                "text": "performing electronic keyword searches through all electronic storage areas to"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    356,
+                    687,
+                    1483,
+                    735
+                ],
+                "score": 0.971,
+                "text": "determine the existence and location of data potentially related to the subject matter of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    358,
+                    724,
+                    659,
+                    767
+                ],
+                "score": 0.981,
+                "text": "the investigation6; and"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1467,
+                    2133,
+                    1666,
+                    2168
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114221"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    903,
+                    1480,
+                    949
+                ],
+                "score": 0.977,
+                "text": "Law enforcement personnel will make reasonable efforts to search only for files,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    939,
+                    1481,
+                    986
+                ],
+                "score": 0.982,
+                "text": "documents, or other electronically stored information within the categories identified in Section"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    978,
+                    1483,
+                    1025
+                ],
+                "score": 0.967,
+                "text": "I.A of this Attachment. However, law enforcement personnel are authorized to conduct a"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1015,
+                    1481,
+                    1061
+                ],
+                "score": 0.979,
+                "text": "complete review of all the ESI from seized devices or storage media if necessary to evaluate its"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1052,
+                    945,
+                    1097
+                ],
+                "score": 0.98,
+                "text": "contents and to locate all data responsive to the warrant."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    204,
+                    1745,
+                    1480,
+                    1799
+                ],
+                "score": 0.968,
+                "text": "6 Keyword searches alone are typically inadequate to detect all relevant data. For one thing,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    205,
+                    1786,
+                    1478,
+                    1832
+                ],
+                "score": 0.972,
+                "text": "keyword searches work only for text data, yet many types of files, such as images and videos, do"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1825,
+                    1474,
+                    1869
+                ],
+                "score": 0.981,
+                "text": "not store data as searchable text. Moreover, even as to text data, there may be information properly"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1865,
+                    1478,
+                    1905
+                ],
+                "score": 0.986,
+                "text": "subject to seizure but that is not captured by a keyword search because the information does not"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1902,
+                    703,
+                    1942
+                ],
+                "score": 0.992,
+                "text": "contain the keywords being searched."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    829,
+                    1957,
+                    856,
+                    1993
+                ],
+                "score": 0.994,
+                "text": "2"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1703,
+            "height": 2250
+        }
+    }
+]

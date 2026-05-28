@@ -1,0 +1,60 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "Alex Rossmiller",
+      "frequencia": 1,
+      "grau": 1
+    },
+    {
+      "id": "Geoffrey S. Berman",
+      "frequencia": 2,
+      "grau": 2
+    },
+    {
+      "id": "Epstein",
+      "frequencia": 2,
+      "grau": 1
+    },
+    {
+      "id": "Jeffrey Epstein",
+      "frequencia": 4,
+      "grau": 3
+    },
+    {
+      "id": "Barbara Moses",
+      "frequencia": 1,
+      "grau": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Alex Rossmiller",
+      "target": "Geoffrey S. Berman",
+      "weight": 1,
+      "predicates": "trabalhou com",
+      "label": "trabalhou com"
+    },
+    {
+      "source": "Geoffrey S. Berman",
+      "target": "Jeffrey Epstein",
+      "weight": 1,
+      "predicates": "foi mencionado com",
+      "label": "foi mencionado com"
+    },
+    {
+      "source": "Epstein",
+      "target": "Jeffrey Epstein",
+      "weight": 2,
+      "predicates": "foi mencionado com; trabalhou com",
+      "label": "foi mencionado com, trabalhou com"
+    },
+    {
+      "source": "Barbara Moses",
+      "target": "Jeffrey Epstein",
+      "weight": 1,
+      "predicates": "foi mencionado com",
+      "label": "foi mencionado com"
+    }
+  ]
+}

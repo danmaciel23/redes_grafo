@@ -1,0 +1,2318 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9495,
+                "bbox": [
+                    165,
+                    0,
+                    910,
+                    39
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9415,
+                "bbox": [
+                    1378,
+                    1,
+                    1533,
+                    40
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8718,
+                "bbox": [
+                    178,
+                    151,
+                    390,
+                    427
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.6283,
+                "bbox": [
+                    400,
+                    151,
+                    610,
+                    295
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5999,
+                "bbox": [
+                    622,
+                    154,
+                    916,
+                    188
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5826,
+                "bbox": [
+                    623,
+                    191,
+                    908,
+                    221
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6353,
+                "bbox": [
+                    622,
+                    226,
+                    937,
+                    256
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.645,
+                "bbox": [
+                    622,
+                    294,
+                    691,
+                    323
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6226,
+                "bbox": [
+                    1169,
+                    155,
+                    1389,
+                    186
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7432,
+                "bbox": [
+                    623,
+                    258,
+                    1147,
+                    291
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.747,
+                "bbox": [
+                    622,
+                    328,
+                    784,
+                    357
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7325,
+                "bbox": [
+                    1172,
+                    184,
+                    1521,
+                    215
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8511,
+                "bbox": [
+                    622,
+                    355,
+                    920,
+                    386
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8095,
+                "bbox": [
+                    649,
+                    393,
+                    758,
+                    423
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8487,
+                "bbox": [
+                    651,
+                    427,
+                    874,
+                    458
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.857,
+                "bbox": [
+                    651,
+                    459,
+                    872,
+                    487
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8508,
+                "bbox": [
+                    1074,
+                    428,
+                    1296,
+                    457
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8456,
+                "bbox": [
+                    651,
+                    486,
+                    781,
+                    515
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.868,
+                "bbox": [
+                    1074,
+                    459,
+                    1294,
+                    487
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8381,
+                "bbox": [
+                    1075,
+                    487,
+                    1204,
+                    515
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8742,
+                "bbox": [
+                    1300,
+                    538,
+                    1530,
+                    572
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8718,
+                "bbox": [
+                    174,
+                    573,
+                    450,
+                    606
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5882,
+                "bbox": [
+                    209,
+                    610,
+                    334,
+                    641
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.764,
+                "bbox": [
+                    884,
+                    609,
+                    974,
+                    641
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7873,
+                "bbox": [
+                    1013,
+                    611,
+                    1157,
+                    642
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7114,
+                "bbox": [
+                    239,
+                    649,
+                    328,
+                    677
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6788,
+                "bbox": [
+                    1205,
+                    609,
+                    1437,
+                    643
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8132,
+                "bbox": [
+                    292,
+                    691,
+                    383,
+                    720
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.78,
+                "bbox": [
+                    210,
+                    747,
+                    296,
+                    777
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8,
+                "bbox": [
+                    361,
+                    749,
+                    522,
+                    779
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6493,
+                "bbox": [
+                    209,
+                    784,
+                    821,
+                    816
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8395,
+                "bbox": [
+                    208,
+                    822,
+                    299,
+                    853
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.671,
+                "bbox": [
+                    498,
+                    825,
+                    545,
+                    857
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8605,
+                "bbox": [
+                    208,
+                    859,
+                    319,
+                    890
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6668,
+                "bbox": [
+                    687,
+                    826,
+                    732,
+                    856
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7416,
+                "bbox": [
+                    598,
+                    861,
+                    854,
+                    892
+                ],
+                "index": 36
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8533,
+                "bbox": [
+                    174,
+                    900,
+                    474,
+                    933
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7645,
+                "bbox": [
+                    209,
+                    935,
+                    323,
+                    967
+                ],
+                "index": 38
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8104,
+                "bbox": [
+                    1213,
+                    935,
+                    1414,
+                    969
+                ],
+                "index": 39
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8974,
+                "bbox": [
+                    174,
+                    977,
+                    492,
+                    1011
+                ],
+                "index": 40
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7602,
+                "bbox": [
+                    213,
+                    1017,
+                    311,
+                    1047
+                ],
+                "index": 41
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.754,
+                "bbox": [
+                    328,
+                    1020,
+                    413,
+                    1049
+                ],
+                "index": 42
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.747,
+                "bbox": [
+                    588,
+                    1018,
+                    658,
+                    1047
+                ],
+                "index": 43
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6924,
+                "bbox": [
+                    212,
+                    1054,
+                    275,
+                    1083
+                ],
+                "index": 44
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7077,
+                "bbox": [
+                    670,
+                    1019,
+                    738,
+                    1050
+                ],
+                "index": 45
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7543,
+                "bbox": [
+                    956,
+                    1016,
+                    1069,
+                    1048
+                ],
+                "index": 46
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7065,
+                "bbox": [
+                    329,
+                    1059,
+                    394,
+                    1087
+                ],
+                "index": 47
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7373,
+                "bbox": [
+                    1250,
+                    1015,
+                    1317,
+                    1046
+                ],
+                "index": 48
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.674,
+                "bbox": [
+                    588,
+                    1055,
+                    645,
+                    1086
+                ],
+                "index": 49
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5433,
+                "bbox": [
+                    671,
+                    1059,
+                    744,
+                    1089
+                ],
+                "index": 50
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6773,
+                "bbox": [
+                    956,
+                    1054,
+                    1044,
+                    1086
+                ],
+                "index": 51
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6726,
+                "bbox": [
+                    1081,
+                    1057,
+                    1134,
+                    1087
+                ],
+                "index": 52
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5848,
+                "bbox": [
+                    1249,
+                    1054,
+                    1405,
+                    1087
+                ],
+                "index": 53
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5684,
+                "bbox": [
+                    236,
+                    1095,
+                    826,
+                    1126
+                ],
+                "index": 54
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8188,
+                "bbox": [
+                    282,
+                    1134,
+                    361,
+                    1165
+                ],
+                "index": 55
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8557,
+                "bbox": [
+                    210,
+                    1186,
+                    378,
+                    1218
+                ],
+                "index": 56
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7042,
+                "bbox": [
+                    894,
+                    1188,
+                    1038,
+                    1218
+                ],
+                "index": 57
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8682,
+                "bbox": [
+                    209,
+                    1224,
+                    375,
+                    1255
+                ],
+                "index": 58
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7281,
+                "bbox": [
+                    895,
+                    1225,
+                    1023,
+                    1256
+                ],
+                "index": 59
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7948,
+                "bbox": [
+                    238,
+                    1262,
+                    382,
+                    1293
+                ],
+                "index": 60
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7783,
+                "bbox": [
+                    282,
+                    1302,
+                    361,
+                    1334
+                ],
+                "index": 61
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7671,
+                "bbox": [
+                    210,
+                    1355,
+                    330,
+                    1387
+                ],
+                "index": 62
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8028,
+                "bbox": [
+                    209,
+                    1393,
+                    376,
+                    1425
+                ],
+                "index": 63
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6902,
+                "bbox": [
+                    479,
+                    1396,
+                    584,
+                    1426
+                ],
+                "index": 64
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7404,
+                "bbox": [
+                    894,
+                    1356,
+                    1029,
+                    1387
+                ],
+                "index": 65
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8773,
+                "bbox": [
+                    174,
+                    1436,
+                    627,
+                    1468
+                ],
+                "index": 66
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7349,
+                "bbox": [
+                    894,
+                    1393,
+                    1035,
+                    1426
+                ],
+                "index": 67
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7541,
+                "bbox": [
+                    1130,
+                    1397,
+                    1186,
+                    1426
+                ],
+                "index": 68
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7683,
+                "bbox": [
+                    209,
+                    1471,
+                    371,
+                    1501
+                ],
+                "index": 69
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7645,
+                "bbox": [
+                    1103,
+                    1470,
+                    1190,
+                    1501
+                ],
+                "index": 70
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.678,
+                "bbox": [
+                    209,
+                    1508,
+                    359,
+                    1538
+                ],
+                "index": 71
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5181,
+                "bbox": [
+                    239,
+                    1545,
+                    600,
+                    1577
+                ],
+                "index": 72
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8097,
+                "bbox": [
+                    247,
+                    1577,
+                    1495,
+                    1813
+                ],
+                "index": 73,
+                "html": "<table><tr><td rowspan=1 colspan=1>6405 - Sexual Exploitation of Minor - Sex Performance</td><td rowspan=1 colspan=1>07/02/2020</td></tr><tr><td rowspan=1 colspan=1>6405 - Sexual Exploitation of Minor - Sex Performance</td><td rowspan=1 colspan=1>07/02/2020</td></tr><tr><td rowspan=1 colspan=1>3622 - Transport Interstate for Sexual Activity</td><td rowspan=1 colspan=1>07/02/2020</td></tr><tr><td rowspan=1 colspan=1>3622 - Transport Interstate for Sexual Activity</td><td rowspan=1 colspan=1>07/02/2020</td></tr><tr><td rowspan=1 colspan=1>5003 - Perjury</td><td rowspan=1 colspan=1>07/02/2020</td></tr><tr><td rowspan=1 colspan=2>5003 - Perjury                                                                                 07/02/2020</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6071,
+                "bbox": [
+                    238,
+                    1833,
+                    443,
+                    1863
+                ],
+                "index": 74
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8332,
+                "bbox": [
+                    283,
+                    1872,
+                    360,
+                    1902
+                ],
+                "index": 75
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7908,
+                "bbox": [
+                    209,
+                    1928,
+                    310,
+                    1959
+                ],
+                "index": 76
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7807,
+                "bbox": [
+                    393,
+                    1928,
+                    437,
+                    1958
+                ],
+                "index": 77
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7618,
+                "bbox": [
+                    1102,
+                    1925,
+                    1159,
+                    1957
+                ],
+                "index": 78
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7167,
+                "bbox": [
+                    1285,
+                    1927,
+                    1423,
+                    1958
+                ],
+                "index": 79
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7904,
+                "bbox": [
+                    1260,
+                    2029,
+                    1483,
+                    2061
+                ],
+                "index": 80
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8574,
+                "bbox": [
+                    163,
+                    2092,
+                    1534,
+                    2135
+                ],
+                "index": 81
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.931,
+                "bbox": [
+                    1463,
+                    2134,
+                    1663,
+                    2167
+                ],
+                "index": 82
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9599,
+                "bbox": [
+                    1442,
+                    2199,
+                    1683,
+                    2235
+                ],
+                "index": 83
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    -2,
+                    910,
+                    39
+                ],
+                "score": 0.968,
+                "text": "Joint Automated Booking System - Limited Official Use"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1372,
+                    -4,
+                    1537,
+                    41
+                ],
+                "score": 0.959,
+                "text": "Page 1 of 2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    650,
+                    392,
+                    759,
+                    422
+                ],
+                "score": 0.999,
+                "text": "Charges:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    649,
+                    478,
+                    783,
+                    520
+                ],
+                "score": 0.957,
+                "text": "5003 - Perury"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    606,
+                    335,
+                    641
+                ],
+                "score": 0.978,
+                "text": "FBI Name:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1011,
+                    608,
+                    1160,
+                    643
+                ],
+                "score": 0.997,
+                "text": "8AREFN06X"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    205,
+                    854,
+                    322,
+                    893
+                ],
+                "score": 0.997,
+                "text": "Address:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    933,
+                    325,
+                    966
+                ],
+                "score": 0.997,
+                "text": "Location:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1012,
+                    315,
+                    1049
+                ],
+                "score": 0.996,
+                "text": "Gender:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    952,
+                    1009,
+                    1074,
+                    1052
+                ],
+                "score": 0.995,
+                "text": "Ethnicity:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1244,
+                    1044,
+                    1411,
+                    1094
+                ],
+                "score": 0.9,
+                "text": "Weight:142"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    891,
+                    1183,
+                    1041,
+                    1221
+                ],
+                "score": 0.998,
+                "text": "Occupation:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    892,
+                    1223,
+                    1025,
+                    1255
+                ],
+                "score": 0.998,
+                "text": "Education:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    236,
+                    1258,
+                    385,
+                    1293
+                ],
+                "score": 0.999,
+                "text": "Medications"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1347,
+                    336,
+                    1394
+                ],
+                "score": 0.994,
+                "text": "Birth City:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    476,
+                    1392,
+                    588,
+                    1428
+                ],
+                "score": 0.991,
+                "text": "FRANCE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    891,
+                    1352,
+                    1030,
+                    1386
+                ],
+                "score": 0.955,
+                "text": "Birth State:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    892,
+                    1388,
+                    1036,
+                    1428
+                ],
+                "score": 0.996,
+                "text": "Citizenship:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1505,
+                    359,
+                    1539
+                ],
+                "score": 0.993,
+                "text": "Jurisdiction:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    204,
+                    1922,
+                    315,
+                    1966
+                ],
+                "score": 0.994,
+                "text": "Agency:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1283,
+                    1924,
+                    1426,
+                    1959
+                ],
+                "score": 0.968,
+                "text": "NYFBINY00"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    623,
+                    155,
+                    915,
+                    190
+                ],
+                "score": 0.986,
+                "text": "MAXWELL, GHISLAINE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    622,
+                    191,
+                    733,
+                    220
+                ],
+                "score": 0.996,
+                "text": "Trans ID:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    792,
+                    189,
+                    908,
+                    222
+                ],
+                "score": 0.999,
+                "text": "61235657"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    621,
+                    224,
+                    716,
+                    257
+                ],
+                "score": 0.933,
+                "text": "FBI No:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    226,
+                    937,
+                    255
+                ],
+                "score": 0.998,
+                "text": "8AREFN06X"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    622,
+                    356,
+                    775,
+                    385
+                ],
+                "score": 0.989,
+                "text": "or Received:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    356,
+                    919,
+                    385
+                ],
+                "score": 0.999,
+                "text": "07/02/2020"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    173,
+                    896,
+                    475,
+                    936
+                ],
+                "score": 0.999,
+                "text": "Detention Information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    173,
+                    974,
+                    493,
+                    1013
+                ],
+                "score": 0.998,
+                "text": "Biographic Information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    622,
+                    294,
+                    690,
+                    321
+                ],
+                "score": 0.981,
+                "text": "DOB:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    881,
+                    606,
+                    977,
+                    642
+                ],
+                "score": 0.985,
+                "text": "FBINo:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    290,
+                    686,
+                    386,
+                    723
+                ],
+                "score": 0.965,
+                "text": "MAX, G"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    742,
+                    299,
+                    778
+                ],
+                "score": 0.972,
+                "text": "Status:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    817,
+                    301,
+                    855
+                ],
+                "score": 0.996,
+                "text": "Phone:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    492,
+                    819,
+                    551,
+                    864
+                ],
+                "score": 0.859,
+                "text": "(R);"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    683,
+                    821,
+                    737,
+                    862
+                ],
+                "score": 0.848,
+                "text": "(R);"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    326,
+                    1019,
+                    414,
+                    1049
+                ],
+                "score": 0.999,
+                "text": "Female"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    586,
+                    1015,
+                    663,
+                    1048
+                ],
+                "score": 0.996,
+                "text": "Race:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1049,
+                    277,
+                    1086
+                ],
+                "score": 0.993,
+                "text": "Hair:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    665,
+                    1014,
+                    742,
+                    1054
+                ],
+                "score": 0.998,
+                "text": "White"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1246,
+                    1012,
+                    1322,
+                    1049
+                ],
+                "score": 0.98,
+                "text": "DOB:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    584,
+                    1051,
+                    649,
+                    1090
+                ],
+                "score": 0.994,
+                "text": "Eye:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    668,
+                    1056,
+                    748,
+                    1091
+                ],
+                "score": 0.999,
+                "text": "Brown"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    949,
+                    1046,
+                    1049,
+                    1093
+                ],
+                "score": 0.997,
+                "text": "Height:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1074,
+                    1054,
+                    1138,
+                    1088
+                ],
+                "score": 0.778,
+                "text": "57\""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    280,
+                    1130,
+                    364,
+                    1167
+                ],
+                "score": 0.999,
+                "text": "NONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    280,
+                    1298,
+                    364,
+                    1336
+                ],
+                "score": 0.998,
+                "text": "NONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1125,
+                    1392,
+                    1191,
+                    1430
+                ],
+                "score": 0.995,
+                "text": "USA"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1100,
+                    1467,
+                    1192,
+                    1502
+                ],
+                "score": 0.997,
+                "text": "Phone:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    282,
+                    1869,
+                    364,
+                    1903
+                ],
+                "score": 0.999,
+                "text": "NONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    390,
+                    1925,
+                    440,
+                    1958
+                ],
+                "score": 0.988,
+                "text": "FBI"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1100,
+                    1922,
+                    1162,
+                    1957
+                ],
+                "score": 0.959,
+                "text": "ORI:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1164,
+                    152,
+                    1389,
+                    190
+                ],
+                "score": 0.976,
+                "text": "Package is Current"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    622,
+                    327,
+                    786,
+                    359
+                ],
+                "score": 0.994,
+                "text": "Date Arrested"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    358,
+                    746,
+                    525,
+                    781
+                ],
+                "score": 0.996,
+                "text": "JABS Updated"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1208,
+                    928,
+                    1419,
+                    975
+                ],
+                "score": 0.954,
+                "text": "Date: 07/02/2020"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1183,
+                    380,
+                    1218
+                ],
+                "score": 0.997,
+                "text": "Marital Status:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1220,
+                    377,
+                    1257
+                ],
+                "score": 0.97,
+                "text": "Health Status:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1386,
+                    378,
+                    1429
+                ],
+                "score": 0.989,
+                "text": "Birth Country:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1465,
+                    373,
+                    1503
+                ],
+                "score": 0.908,
+                "text": "Officer Name:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    237,
+                    1831,
+                    443,
+                    1862
+                ],
+                "score": 0.984,
+                "text": "Warrant Numbers"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1464,
+                    2135,
+                    1664,
+                    2167
+                ],
+                "score": 1.0,
+                "text": "EFTA_00114085"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    623,
+                    261,
+                    747,
+                    287
+                ],
+                "score": 0.978,
+                "text": "FBI Name:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    261,
+                    1145,
+                    289
+                ],
+                "score": 0.99,
+                "text": "MAXWELL,GHISLAINE NOELLE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1167,
+                    180,
+                    1525,
+                    218
+                ],
+                "score": 0.976,
+                "text": "Received: 07/08/2020 14:21:17"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    239,
+                    1543,
+                    601,
+                    1578
+                ],
+                "score": 0.992,
+                "text": "Charges (Charge, Offense Date)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    652,
+                    428,
+                    873,
+                    457
+                ],
+                "score": 0.98,
+                "text": "6405 - Sexual Exploitati."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1075,
+                    429,
+                    1296,
+                    457
+                ],
+                "score": 0.966,
+                "text": "6405 - Sexual Exploitati.."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1298,
+                    533,
+                    1533,
+                    575
+                ],
+                "score": 0.998,
+                "text": "Personal History"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    174,
+                    568,
+                    450,
+                    609
+                ],
+                "score": 0.993,
+                "text": "General Information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1200,
+                    600,
+                    1441,
+                    648
+                ],
+                "score": 0.974,
+                "text": "Trans ID: 61235657"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    598,
+                    860,
+                    858,
+                    895
+                ],
+                "score": 0.998,
+                "text": "Bradford, NH US 03221"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1261,
+                    2028,
+                    1484,
+                    2063
+                ],
+                "score": 0.998,
+                "text": "SDNY_GM_00000001"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1443,
+                    2200,
+                    1685,
+                    2241
+                ],
+                "score": 0.999,
+                "text": "EFTA01262782"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    652,
+                    458,
+                    872,
+                    487
+                ],
+                "score": 0.937,
+                "text": "3622 - Transport Interst.."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1075,
+                    457,
+                    1295,
+                    488
+                ],
+                "score": 0.942,
+                "text": "3622 - Transport Interst..."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1075,
+                    481,
+                    1203,
+                    518
+                ],
+                "score": 0.982,
+                "text": "5003 - Perjury"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    238,
+                    646,
+                    330,
+                    679
+                ],
+                "score": 0.997,
+                "text": "Aliases"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    326,
+                    1057,
+                    395,
+                    1088
+                ],
+                "score": 0.998,
+                "text": "Black"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    780,
+                    824,
+                    822
+                ],
+                "score": 0.994,
+                "text": "Package ID: F5C9BC0CBA14407D96D14A1BF0900815"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    232,
+                    1093,
+                    827,
+                    1129
+                ],
+                "score": 0.978,
+                "text": "Identifying Characteristics (NCIC Code, Description)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    1435,
+                    627,
+                    1469
+                ],
+                "score": 0.989,
+                "text": "Arrested or Received Information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    162,
+                    2087,
+                    1536,
+                    2136
+                ],
+                "score": 0.965,
+                "text": "https://www.cjis.gov/jabs/query_showPrinterFriendlyPersonalHistory.do?transactionId=61…. 7/22/2020"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1700,
+            "height": 2250
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9454,
+                "bbox": [
+                    164,
+                    0,
+                    912,
+                    40
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9444,
+                "bbox": [
+                    1378,
+                    1,
+                    1533,
+                    40
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8984,
+                "bbox": [
+                    174,
+                    133,
+                    1528,
+                    803
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9668,
+                "bbox": [
+                    172,
+                    813,
+                    487,
+                    879
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9679,
+                "bbox": [
+                    172,
+                    882,
+                    447,
+                    948
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9677,
+                "bbox": [
+                    172,
+                    954,
+                    523,
+                    1018
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9643,
+                "bbox": [
+                    173,
+                    1023,
+                    483,
+                    1088
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9602,
+                "bbox": [
+                    173,
+                    1093,
+                    496,
+                    1159
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9319,
+                "bbox": [
+                    171,
+                    1162,
+                    583,
+                    1229
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8934,
+                "bbox": [
+                    167,
+                    1257,
+                    415,
+                    1288
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9435,
+                "bbox": [
+                    1260,
+                    2029,
+                    1484,
+                    2061
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9343,
+                "bbox": [
+                    162,
+                    2092,
+                    1536,
+                    2135
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.5207,
+                "bbox": [
+                    1461,
+                    2133,
+                    1664,
+                    2168
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9552,
+                "bbox": [
+                    1442,
+                    2199,
+                    1683,
+                    2236
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    167,
+                    -2,
+                    910,
+                    39
+                ],
+                "score": 0.971,
+                "text": "Joint Automated Booking System - Limited Official Use"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1372,
+                    -5,
+                    1537,
+                    41
+                ],
+                "score": 0.913,
+                "text": "Page 2 of 2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    174,
+                    814,
+                    485,
+                    849
+                ],
+                "score": 0.992,
+                "text": "Identifying Documents"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    217,
+                    847,
+                    299,
+                    880
+                ],
+                "score": 0.999,
+                "text": "NONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    173,
+                    1021,
+                    480,
+                    1057
+                ],
+                "score": 0.995,
+                "text": "Separatee Information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    1055,
+                    299,
+                    1088
+                ],
+                "score": 0.998,
+                "text": "NONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    173,
+                    1091,
+                    493,
+                    1128
+                ],
+                "score": 0.992,
+                "text": "Associates Information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    216,
+                    1126,
+                    299,
+                    1159
+                ],
+                "score": 0.999,
+                "text": "NONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1463,
+                    2133,
+                    1666,
+                    2168
+                ],
+                "score": 0.999,
+                "text": "EFTA_00114086"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    955,
+                    520,
+                    987
+                ],
+                "score": 0.986,
+                "text": "Incarceration Information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    217,
+                    986,
+                    298,
+                    1019
+                ],
+                "score": 0.999,
+                "text": "NONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    173,
+                    1160,
+                    580,
+                    1197
+                ],
+                "score": 0.977,
+                "text": "Immediate Family Information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    217,
+                    1194,
+                    298,
+                    1227
+                ],
+                "score": 0.999,
+                "text": "NONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    173,
+                    881,
+                    444,
+                    917
+                ],
+                "score": 0.996,
+                "text": "Vehicle Information"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    217,
+                    916,
+                    298,
+                    949
+                ],
+                "score": 0.999,
+                "text": "NONE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    170,
+                    1259,
+                    412,
+                    1286
+                ],
+                "score": 0.979,
+                "text": "Limited official Use"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1261,
+                    2028,
+                    1485,
+                    2063
+                ],
+                "score": 0.99,
+                "text": "SDNY_GM_00000002"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    2201,
+                    1684,
+                    2239
+                ],
+                "score": 0.998,
+                "text": "EFTA01262783"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    163,
+                    2087,
+                    1536,
+                    2136
+                ],
+                "score": 0.962,
+                "text": "https://www.cjis.gov/jabs/query_showPrinterFriendlyPersonalHistory.do?transactionId=61…. 7/22/2020"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1700,
+            "height": 2250
+        }
+    }
+]

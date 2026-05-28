@@ -1,0 +1,1642 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alex Rossmiller hereby affirms, under penalty of perjury, as follows:"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                246,
+                717,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I am an Assistant United States Attorney in the office of Geoffrey S. Berman, United States Attorney for the Southern District of New York, and I am familiar with this matter."
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                279,
+                838,
+                330
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. The Government is seeking an order pursuant to 18 U.S.C. 8 3123 authorizing the installation and use of a pen register and trap-and-trace device (the \"Requested Pen-Trap\") for a period of sixty (60) days following the date of this order, on the following phone line (the \"Target Phone\") maintained by T-Mobile (the \"Provider\")."
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                344,
+                869,
+                461
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Phone number:"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                474,
+                303,
+                491
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c7f04afce033fed4ec561d463fa04ea9e57658ce261e9dd7ed2bbe979b8007e4.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                405,
+                469,
+                545,
+                497
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Subscriber Name:"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                507,
+                325,
+                524
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "TERRAMAR PROJECT"
+                    }
+                ]
+            },
+            "bbox": [
+                408,
+                507,
+                606,
+                524
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. The Government is seeking the Requested Pen-Trap in connection with a criminal investigation conducted by the Federal Bureau of Investigation (the \"Investigating Agency\") of FNU LNU and others known and unknown (the \"Target Subjects\"), in connection with possible violations of 21 U.S.C. 8 1591."
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                540,
+                867,
+                655
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Legal Authority"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                426,
+                669,
+                565,
+                686
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. A \"pen register\" is \"a device or process which records or decodes dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted.\" 18 U.S.C. 8 3127(3). A \"trap and trace device\" is defined as \"a device or process which captures the incoming electronic or other impulses which identify the originating number or other dialing, routing, addressing, and signaling information"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                698,
+                864,
+                848
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000024"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                901,
+                874,
+                916
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                88,
+                462,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "20MAG247"
+                    }
+                ]
+            },
+            "bbox": [
+                596,
+                83,
+                875,
+                127
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                933,
+                95,
+                946,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "IN THE MATTER OF AN APPLICATION OF THE UNITED STATES OF AMERICA FOR AN ORDER AUTHORIZING THE USE OF A PEN REGISTER AND TRAP-AND-TRACE DEVICE ON A CERTAIN TELEPHONE"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                137,
+                511,
+                222
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SEALED APPLICATION"
+                    }
+                ]
+            },
+            "bbox": [
+                596,
+                170,
+                816,
+                187
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262798"
+                    }
+                ]
+            },
+            "bbox": [
+                849,
+                976,
+                990,
+                992
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114108"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                946,
+                980,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "reasonably likely to identify the source of a wire or electronic communication.\" 18 U.S.C."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8 3127(4)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                86,
+                826,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. In the context of traditional phone communications, pen registers capture the destination phone numbers of outgoing calls and texts sent from a phone, while trap and trace devices capture the phone numbers of incoming calls and texts received by a phone. Similar principles apply to other kinds of wire and electronic communications, including Internet communications, which most phones today are used to send and receive in addition to phone communications."
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                153,
+                848,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. On the Internet, data transferred between devices is not sent as a continuous stream, but rather the data are split into discrete \"packets.\" Generally, a single communication is sent as a series of packets. When the packets reach their destination, the receiving device reassembles them into the complete communication. Each packet has two parts: a \"header,\" which contains routing and control information, and a \"payload,\" which generally contains user data."
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                350,
+                874,
+                533
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. In particular, a packet header reflects the following information:"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                545,
+                738,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• the source IP address' from which the packet was sent and the destination IP address to which the packet is directed;"
+                    }
+                ]
+            },
+            "bbox": [
+                241,
+                579,
+                861,
+                629
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• the communications port associated with the packet, reflecting the type of communication involved (e.g., web, email, FTP); and"
+                    }
+                ]
+            },
+            "bbox": [
+                243,
+                644,
+                841,
+                695
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• the date/time of the communication."
+                    }
+                ]
+            },
+            "bbox": [
+                243,
+                711,
+                553,
+                728
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000025"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                901,
+                874,
+                916
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Every device on the Internet is identified by a unique number called an Internet protocol (\"IP\") address. This number is used to route information between devices, for example, between two computers."
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                802,
+                870,
+                854
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                496,
+                867,
+                511,
+                882
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2017.02.06"
+                    }
+                ]
+            },
+            "bbox": [
+                130,
+                882,
+                187,
+                896
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114109"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                946,
+                978,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262799"
+                    }
+                ]
+            },
+            "bbox": [
+                849,
+                976,
+                990,
+                992
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. The information sought through the Requested Pen-Trap does not include the \"contents\" of communications within the meaning of the Wiretap Statute, as it does not include \"information concerning the substance, purport, or meaning\" of any communication. 18 U.S.C. 8 2510(8). The Government is not requesting, and does not seek to obtain, the contents of any communications.2"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                86,
+                866,
+                238
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Certification and Request"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                393,
+                251,
+                612,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. I am familiar with the facts of this investigation from my review of relevant records and my discussions with the case agents involved. Based on those records and discussions, I hereby certify, pursuant to 18 U.S.C. 8 3123(a)(1), that the information likely to be obtained from the Requested Pen-Trap is relevant to the Investigating Agency's ongoing criminal investigation of the Target Subjects."
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                282,
+                875,
+                433
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. Accordingly, the Government requests that the Court enter an order authorizing the installation and use of the Requested Pen-Trap to collect the phone numbers and/or IP addresses and communications ports associated with any phone, text, or data communications to or from the Target Phone, along with the date, time, and duration (but not the contents) of the communication, for a period of 60 days."
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                445,
+                869,
+                596
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. The Government further requests, pursuant to 18 U.S.C. 88 3123(b)(2) and 3124(a)-(b), that the Order direct the Provider and any other person or entity providing wire or electronic communication service in the United States whose assistance may facilitate execution"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                607,
+                869,
+                691
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000026"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                901,
+                874,
+                916
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "2 The Government is also not seeking authorization to obtain post-cut-through dialed digits (\"PCTDD\"), or digits that are dialed after a telephone call from the Target Phone has been connected. Pursuant to the attached Order, if possible, the Provider wil forward only pre-cutthrough-dialed digits to the Investigating Agency. However, if the Provider's technical capabilities require it to forward all dialed digits, including PCTDD, to the Investigating Agency, the Investigating Agency will only decode and forward to the agents assigned to the investigation the numbers that are dialed before the call is cut through."
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                737,
+                877,
+                851
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                866,
+                509,
+                881
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2017,02.06"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                881,
+                186,
+                895
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114110"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                946,
+                980,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262800"
+                    }
+                ]
+            },
+            "bbox": [
+                848,
+                976,
+                990,
+                993
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "of this Order to furnish, upon service of the Order, any information, facilities, and technical assistance necessary to install the Requested Pen-Trap unobtrusively and with minimum disruption of normal service. Any entity providing such assistance shall be reasonably compensated by the Investigating Agency, pursuant to 18 U.S.C. 8 3124(c), for reasonable expenses incurred in providing facilities and assistance in furtherance of this Order."
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                86,
+                830,
+                238
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. The Government further requests that the Order direct that the information collected through the Requested Pen-Trap be furnished to the Investigating Agency at reasonable intervals during regular business hours for the duration of the Order."
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                251,
+                874,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12. The Government further requests that the Order direct the Provider to notify the Investigating Agency of any changes relating to the Target Phone, including changes to subscriber information, and to provide prior notice to the Investigating Agency before terminating service to the Target Phone."
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                348,
+                857,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13. The Government further requests, pursuant to 18 U.S.C. 8 3123(d), that the Provider and its agents and employees be directed to refrain from disclosing the Requested Pen-Trap or the existence of the underlying investigation, except as necessary to effectuate the Order, unless and until authorized by this Court, and that the Clerk of Court be directed to seal the Order (and this Application) until further order of this Court, except that copies may be retained by the United States Attorney's Office and the Investigating Agency."
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                480,
+                870,
+                661
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The foregoing is affirmed under the penalties of perjury, pursuant to 28 U.S.C. 8 1746."
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                672,
+                849,
+                691
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dated: New York, New York January 7, 2020"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                707,
+                361,
+                740
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3c2f7f5df0573cb452f638c52d479c7eb00c07193b52825893869bad0b9f82bf.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                470,
+                698,
+                767,
+                771
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alex Rossmiller"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                771,
+                601,
+                787
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Assistant United States Attorney Southern District of New York Telephone: 212-637-2415"
+                    }
+                ]
+            },
+            "bbox": [
+                468,
+                787,
+                723,
+                837
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2017,02.06"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                881,
+                184,
+                892
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                493,
+                866,
+                508,
+                879
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000027"
+                    }
+                ]
+            },
+            "bbox": [
+                743,
+                902,
+                872,
+                914
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114111"
+                    }
+                ]
+            },
+            "bbox": [
+                862,
+                948,
+                978,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262801"
+                    }
+                ]
+            },
+            "bbox": [
+                849,
+                977,
+                988,
+                992
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IN THE MATTER OF AN APPLICATION OF THE UNITED STATES OF AMERICA FOR AN ORDER AUTHORIZING THE USE OF A PEN REGISTER AND TRAP-AND-TRACE DEVICE ON A CERTAIN TELEPHONE"
+                    }
+                ]
+            },
+            "bbox": [
+                133,
+                135,
+                506,
+                219
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SEALED ORDER"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                588,
+                167,
+                745,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WHEREAS an application has been made by Alex Rossmiller, an Assistant U.S. Attorney in the Southern District of New York, pursuant to 18 U.S.C. 88 3121-26, for an order authorizing the installation and use of a pen register and trap-and-trace device (the \"Requested Pen-Trap\") on the following phone line (the \"Target Phone\") maintained by T-Mobile (the \"Provider\"):"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                243,
+                852,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Phone number:"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                408,
+                303,
+                425
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dc2063b3b89ea15d0c4333d49e4306dc40e78b3d57d273866d5012e91c0baef3.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                400,
+                397,
+                527,
+                425
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Subscriber Name:"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                440,
+                325,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "TERRAMAR PROJECT"
+                    }
+                ]
+            },
+            "bbox": [
+                408,
+                439,
+                607,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WHEREAS the applicant has certified that the information likely to be obtained from the Requested Pen-Trap is relevant to an ongoing criminal investigation conducted by the Federal Bureau of Investigation (the \"Investigating Agency\") of FNU LNU and others known and unknown in connection with possible violations of 21 U.S.C. 8 1591."
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                472,
+                866,
+                591
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IT IS HEREBY ORDERED, pursuant to 18 U.S.C. 88 3121-26, that the Investigating Agency may direct the Provider to install the Requested Pen-Trap to identify the phone numbers and/or IP addresses and communications ports associated with any phone, text, or data communications to or from the Target Phone, along with the date, time, and duration (but not the contents) of such communications; 1"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                602,
+                867,
+                751
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF NEW YORK"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                87,
+                459,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "O MAG247"
+                    }
+                ]
+            },
+            "bbox": [
+                612,
+                58,
+                888,
+                101
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262802"
+                    }
+                ]
+            },
+            "bbox": [
+                848,
+                976,
+                990,
+                992
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "1 The Provider is not required to provide post-cut-through dialed digits (\"PCTDD\"), or digits that are dialed after a telephone call from the Target Phone has been connected. If possible, the Provider will forward only pre-cut-through-dialed digits to the Investigating Agency. However, if the Provider's technical capabilities require it to forward all dialed digits, including PCTDD, to"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                785,
+                872,
+                853
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2017.02.06"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                881,
+                181,
+                895
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                867,
+                503,
+                881
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000028"
+                    }
+                ]
+            },
+            "bbox": [
+                740,
+                901,
+                874,
+                916
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114112"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                946,
+                980,
+                962
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IT IS FURTHER ORDERED, pursuant to 18 U.S.C. 8 3123(c)(1), that the use of the Requested Pen-Trap is authorized for 60 days from the date of this Order;"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                86,
+                833,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IT IS FURTHER ORDERED, pursuant to 18 U.S.C. 8 3123(b)(2), that the Provider furnish any information, facilities, and technical assistance necessary to accomplish the installation and operation of the Requested Pen-Trap unobtrusively and with a minimum of disruption of normal service;"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                151,
+                828,
+                271
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IT IS FURTHER ORDERED that the results of the Requested Pen-Trap shall be furnished to the Investigating Agency at reasonable intervals during regular business hours for the duration of this Order;"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                283,
+                849,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IT IS FURTHER ORDERED that the Provider be compensated by the Investigating Agency for reasonable expenses incurred in executing this Order;"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                381,
+                826,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IT IS FURTHER ORDERED that the Provider notify the Investigating Agency of any changes relating to the Target Phone, including changes to subscriber information, and provide prior notice to the Investigating Agency before terminating service to the Target Phone; and"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                445,
+                852,
+                533
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IT IS FURTHER ORDERED, pursuant to 18 U.S.C. 8 3123(b), that the Provider not disclose the Requested Pen-Trap or the existence of the underlying investigation to any person, except as necessary to effectuate this Order, unless or until otherwise ordered by the Court, and that this Order be sealed until otherwise ordered by this Court, except that copies may be"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                544,
+                854,
+                661
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "the Investigating Agency, the Investigating Agency will only decode and forward to the agents assigned to the investigation, the numbers that are dialed before the call is cut through."
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                817,
+                849,
+                850
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2017,02.06"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                880,
+                178,
+                893
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                486,
+                866,
+                503,
+                880
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000029"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                901,
+                874,
+                916
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114113"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                946,
+                980,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262803"
+                    }
+                ]
+            },
+            "bbox": [
+                849,
+                976,
+                990,
+                993
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "retained by the United States Attorney's Office for the Southern District of New York and the Investigating Agency."
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                86,
+                841,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dated: New York, New York January , 2020"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                150,
+                354,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S/Debra Freema"
+                    }
+                ]
+            },
+            "bbox": [
+                593,
+                154,
+                758,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "JAN082020"
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                217,
+                321,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "THE HONORABLE DEBRA FREEMAN UNITED STATES MAGISTRATE JUDGE SOUTHERN DISTRICT OF NEW YORK"
+                    }
+                ]
+            },
+            "bbox": [
+                403,
+                201,
+                751,
+                253
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2017.02.06"
+                    }
+                ]
+            },
+            "bbox": [
+                116,
+                880,
+                171,
+                892
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                482,
+                866,
+                495,
+                881
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000030"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                901,
+                874,
+                916
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114114"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                946,
+                980,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262804"
+                    }
+                ]
+            },
+            "bbox": [
+                849,
+                976,
+                990,
+                992
+            ]
+        }
+    ]
+]

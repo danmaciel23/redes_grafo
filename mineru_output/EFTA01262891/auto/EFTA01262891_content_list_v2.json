@@ -1,0 +1,1192 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "UNITED STATES DISTRICT COURT"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                284,
+                80,
+                710,
+                106
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D0c2"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                69,
+                259,
+                160
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "for the Southern District of New York"
+                    }
+                ]
+            },
+            "bbox": [
+                382,
+                112,
+                602,
+                148
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the Matter of the Search of (Briefly describe the property to be searched or identify the person by name and address)"
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                164,
+                393,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "See Attachment A"
+                    }
+                ]
+            },
+            "bbox": [
+                197,
+                218,
+                331,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Case No."
+                    }
+                ]
+            },
+            "bbox": [
+                532,
+                196,
+                599,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "19MAG"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                211,
+                722,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6571"
+                    }
+                ]
+            },
+            "bbox": [
+                758,
+                216,
+                892,
+                260
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SEARCH AND SEIZURE WARRANT"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                320,
+                271,
+                669,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To: Any authorized law enforcement officer"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                301,
+                411,
+                317
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An application by a federal law enforcement officer or an attorney for the government requests the search of the following person or property located in the Southem District of New York (identify the person or describe the property to be searched and give its location):"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                329,
+                923,
+                377
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "See Attachment A"
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                383,
+                212,
+                398
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The person or propery to be searched, described above, is believed to conceal (identiy the person or deseribe the propery to be seized):"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                413,
+                933,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "See Attachment A"
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                450,
+                210,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The search and seizure are related to violation(s) of (inser stantory citarions):"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                492,
+                643,
+                509
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Title 18, United States Code, Sections 371 and 1591"
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                517,
+                522,
+                534
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or property."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                546,
+                905,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "YOU ARE COMMANDED to execute this warrant on or before July 21, 2019"
+                    }
+                ]
+            },
+            "bbox": [
+                125,
+                579,
+                812,
+                596
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(not to exceed 14 days)"
+                    }
+                ]
+            },
+            "bbox": [
+                696,
+                597,
+                834,
+                611
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " in the daytime 6:00 a.m. to 10 p.m. a an  in thy r nig as eoabecaseas e established."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                607,
+                892,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Unless delayed notice is authorized below, you must give a copy of the warrant and a receipt for the property taken to the person from whom, or from whose premises, the property was taken, or leave the copy and receipt at the place where the property was taken."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                640,
+                888,
+                686
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The officer executing this warrant, or an officer present during the execution of the warrant, must prepare an inventory as required by law and promptly return this warrant and inventory to the Clerk of the Court."
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                692,
+                885,
+                723
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Upon ts reu, this warant and entoy shul e fil nder se y heCler of theCou."
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                722,
+                877,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "USMJ Initials"
+                    }
+                ]
+            },
+            "bbox": [
+                792,
+                738,
+                879,
+                751
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I find that immediate notification may have an adverse result isted in 18 U..C. 2705 (except for delay of trial), and authorize the officer executing this warrant to delay notice to the person who, or whose property, will be searched or seized (check the appropriate box) for days (not to exceed 30)."
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                759,
+                892,
+                807
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "until, the facts justifying, the later specific date of"
+                    }
+                ]
+            },
+            "bbox": [
+                370,
+                811,
+                900,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Date and time issued:77-1911.33P.M. Judge % signature"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                828,
+                754,
+                877
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "City and state:New York, NY"
+                    }
+                ]
+            },
+            "bbox": [
+                66,
+                891,
+                408,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hon. Barbara Moses, U.S. Magistrate Judge SDNYGM_00000134 Printed name and title"
+                    }
+                ]
+            },
+            "bbox": [
+                449,
+                891,
+                874,
+                922
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "AO 93 (SDNY Rev. 01/17) Search and Seizure Warrant"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                43,
+                362,
+                58
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL"
+                    }
+                ]
+            },
+            "bbox": [
+                496,
+                18,
+                674,
+                54
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114218"
+                    }
+                ]
+            },
+            "bbox": [
+                862,
+                946,
+                978,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262891"
+                    }
+                ]
+            },
+            "bbox": [
+                849,
+                976,
+                988,
+                992
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "AO 93 (SDNY Rev. 01/17) Search and Seizure Warrant(Page 2)"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                44,
+                413,
+                60
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b64097eb1f58c0fb09eb26c6691db4e8692f05a08dee9e848f87a9a3a50f8500.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=3>Return</td></tr><tr><td rowspan=1 colspan=1>Case No.:</td><td rowspan=1 colspan=1>Date and time warrant executed:</td><td rowspan=1 colspan=1>Copy of warrant and inventory left with:</td></tr><tr><td rowspan=1 colspan=3>Inventory made in the presence of :</td></tr><tr><td rowspan=1 colspan=3>Certification</td></tr><tr><td rowspan=1 colspan=3>I declare under penalty of perjury that this inventory is coect and was returned along with the original warantto the Court.Date:Executing officer&#x27;s signaturePrinted name and title</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                61,
+                923,
+                853
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000135"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                901,
+                874,
+                914
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114219"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                946,
+                978,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262892"
+                    }
+                ]
+            },
+            "bbox": [
+                849,
+                976,
+                990,
+                992
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ATTACHMENT A"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                416,
+                92,
+                581,
+                111
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "I. The Subject Devices to Be Searched"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                124,
+                123,
+                449,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Subject Devices are particularly described as compact discs stored in containers marked with FBI evidence numbers 15, 16, 17, 18, and 22, seized from the residence located at 9 East 71st Street, New York, New York, on or about July 7, 2019."
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                154,
+                872,
+                206
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "II. Items to Be Seized"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                124,
+                219,
+                315,
+                238
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A. Evidence, Fruits, and Instrumentalities of the Subject Offenses"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                150,
+                251,
+                700,
+                270
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This warant authorizes the seizure of certain evidence, fruits, and instrumentalities of violations of Title 18, United States Code, Sections 1591 (sex trafficking of minors), and 371 (sex trafficking conspiracy) (the \"Subject Offenses\") described as follows:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                285,
+                872,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Any documents or communications with or regarding victims or potential victims of the Subject Offenses;"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                349,
+                870,
+                383
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Any photographs of victims or potential victims of the Subject Offnses;"
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                396,
+                797,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Any nude, partially nude, or sexually suggestive photographs of individuals who appear to be teenage girls, or younger;"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                427,
+                870,
+                462
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Motion pictures, films, videos, and other recordings of visual or written depictions of minors engaged in sexually explicit conduct, as defined in 18 U.S.C. s 2256(2);"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                474,
+                870,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Records or other items that evidence ownership, control, or use of, or access to devices, storage media, and related electronic equipment used to access, transmit, or store information relating to the Subject Offenses, including, but not limited to, sales receipts, warranties, bills for Internet access, handwritten notes, registry entries, configuration files, saved usernames and passwords, user profiles, e-mail contacts, and photographs;"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                522,
+                872,
+                608
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Any child erotica, defined as suggestive visual depictions of nude minors that do not constitute child pornography as defined by 18 U.S.C. $ 2256(8)."
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                618,
+                870,
+                655
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "B. Review of ESI"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                150,
+                666,
+                307,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Law enforcement personnel (including, in addition to law enforcement officers and agents, and depending on the nature of the ESI and the status of the investigation and related proceedings, attorneys for the government, attorney support staff, agency personnel assisting the government in this investigation, and outside technical experts under government control) will create a forensic image of the Subject Devices (if practicable) and review the ESI contained therein for information responsive to the warrant."
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                697,
+                870,
+                800
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In conducting this review, law enforcement personnel may use various techniques to determine which files or other ESI contain evidence or fruits of the Subject Offenses. Such techniques may include, for example:"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                813,
+                870,
+                866
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2017.08.02"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                882,
+                194,
+                897
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000136"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                901,
+                874,
+                916
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114220"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                946,
+                978,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262893"
+                    }
+                ]
+            },
+            "bbox": [
+                848,
+                976,
+                990,
+                992
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "surveying directories or folders and the individual files they contain (analogous to looking at the outside of a file cabinet for the markings it contains and opening a drawer believed to contain pertinent files);"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                111,
+                872,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "conducting a file-by-file review by \"pening\" or reading the first few \"pages\" of such files in order to determine their precise contents (analogous to performing a cursory examination of each document in a file cabinet to determine its relevance);"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                175,
+                872,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\"scanning\"” storage areas to discover and posibly recover recently deleted data or deliberately hidden files; and"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                240,
+                870,
+                276
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "performing electronic keyword searches through all electronic storage areas to determine the existence and location of data potentially related to the subject matter of the investigation6; and"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                290,
+                872,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "reviewing metadat,system information,configurationfiles,registydata,and ay other information refl ecting how, when, and by whom the computer was used."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                354,
+                870,
+                390
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Law enforcement personnel will make reasonable efforts to search only for files, documents, or other electronically stored information within the categories identified in Section I.A of this Attachment. However, law enforcement personnel are authorized to conduct a complete review of all the ESI from seized devices or storage media if necessary to evaluate its contents and to locate all data responsive to the warrant."
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                401,
+                872,
+                487
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "6 Keyword searches alone are typically inadequate to detect all relevant data. For one thing, keyword searches work only for text data, yet many types of files, such as images and videos, do not store data as searchable text. Moreover, even as to text data, there may be information properly subject to seizure but that is not captured by a keyword search because the information does not contain the keywords being searched."
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                776,
+                869,
+                862
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2017.08.02"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                882,
+                192,
+                897
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                486,
+                869,
+                503,
+                883
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000137"
+                    }
+                ]
+            },
+            "bbox": [
+                740,
+                901,
+                874,
+                916
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114221"
+                    }
+                ]
+            },
+            "bbox": [
+                861,
+                946,
+                978,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262894"
+                    }
+                ]
+            },
+            "bbox": [
+                849,
+                976,
+                990,
+                993
+            ]
+        }
+    ]
+]

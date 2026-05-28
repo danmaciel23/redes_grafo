@@ -1,0 +1,1660 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6e2c7b9862bb7d6c3dd4ac3de13a08fbe2368866193d4f35f6fa5fcebfe80b27.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                104,
+                66,
+                228,
+                188
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/618dc710c8ea59e8ddb19e1a02b8bd08912001bb0ef9c6235f321d81bedbe763.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                235,
+                66,
+                357,
+                130
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MAXWELL, GHISLAINE"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                364,
+                67,
+                537,
+                82
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Trans ID: 61235657"
+                    }
+                ]
+            },
+            "bbox": [
+                366,
+                83,
+                532,
+                97
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FBI No: 8AREFN06X"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                100,
+                550,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOB:"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                129,
+                405,
+                143
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Package is Current"
+                    }
+                ]
+            },
+            "bbox": [
+                686,
+                67,
+                816,
+                81
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FBI Name: MAXWELL,GHISLAINE NOELLE"
+                    }
+                ]
+            },
+            "bbox": [
+                366,
+                113,
+                673,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Date Arrested"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                145,
+                460,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: 07/08/2020 14:21:17"
+                    }
+                ]
+            },
+            "bbox": [
+                687,
+                81,
+                893,
+                95
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "or Received: 07/02/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                156,
+                540,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Charges:"
+                    }
+                ]
+            },
+            "bbox": [
+                380,
+                174,
+                444,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6405 - Sexual Exploitati."
+                    }
+                ]
+            },
+            "bbox": [
+                382,
+                188,
+                513,
+                202
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3622 - Transport Interst.."
+                    }
+                ]
+            },
+            "bbox": [
+                382,
+                203,
+                511,
+                216
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6405 - Sexual Exploitati.."
+                    }
+                ]
+            },
+            "bbox": [
+                630,
+                190,
+                761,
+                202
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5003 - Perury"
+                    }
+                ]
+            },
+            "bbox": [
+                382,
+                214,
+                459,
+                228
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3622 - Transport Interst..."
+                    }
+                ]
+            },
+            "bbox": [
+                630,
+                203,
+                759,
+                216
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5003 - Perjury"
+                    }
+                ]
+            },
+            "bbox": [
+                632,
+                216,
+                707,
+                228
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Personal History"
+                    }
+                ]
+            },
+            "bbox": [
+                764,
+                238,
+                898,
+                253
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "General Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                101,
+                254,
+                264,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FBI Name:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                270,
+                196,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FBINo:"
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                270,
+                571,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8AREFN06X"
+                    }
+                ]
+            },
+            "bbox": [
+                594,
+                270,
+                679,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Aliases"
+                    }
+                ]
+            },
+            "bbox": [
+                140,
+                287,
+                192,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Trans ID: 61235657"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                270,
+                844,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MAX, G"
+                    }
+                ]
+            },
+            "bbox": [
+                171,
+                306,
+                223,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Status:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                330,
+                173,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "JABS Updated"
+                    }
+                ]
+            },
+            "bbox": [
+                210,
+                332,
+                305,
+                345
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Package ID: F5C9BC0CBA14407D96D14A1BF0900815"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                348,
+                482,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Phone:"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                364,
+                174,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(R);"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                366,
+                320,
+                380
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Address:"
+                    }
+                ]
+            },
+            "bbox": [
+                120,
+                381,
+                186,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(R);"
+                    }
+                ]
+            },
+            "bbox": [
+                403,
+                366,
+                429,
+                380
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bradford, NH US 03221"
+                    }
+                ]
+            },
+            "bbox": [
+                351,
+                381,
+                501,
+                396
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Detention Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                101,
+                400,
+                277,
+                413
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Location:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                414,
+                189,
+                429
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Date: 07/02/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                414,
+                831,
+                429
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Biographic Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                101,
+                433,
+                289,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Gender:"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                451,
+                181,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Female"
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                453,
+                241,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Race:"
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                451,
+                385,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hair:"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                467,
+                161,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "White"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                451,
+                433,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ethnicity:"
+                    }
+                ]
+            },
+            "bbox": [
+                562,
+                450,
+                627,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Black"
+                    }
+                ]
+            },
+            "bbox": [
+                192,
+                470,
+                230,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOB:"
+                    }
+                ]
+            },
+            "bbox": [
+                735,
+                450,
+                774,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Eye:"
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                467,
+                379,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Brown"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                470,
+                436,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Height:"
+                    }
+                ]
+            },
+            "bbox": [
+                562,
+                467,
+                612,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "57\""
+                    }
+                ]
+            },
+            "bbox": [
+                635,
+                469,
+                666,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Weight:142"
+                    }
+                ]
+            },
+            "bbox": [
+                733,
+                467,
+                825,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Identifying Characteristics (NCIC Code, Description)"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                486,
+                485,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "NONE"
+                    }
+                ]
+            },
+            "bbox": [
+                165,
+                503,
+                210,
+                517
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Marital Status:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                525,
+                222,
+                540
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Occupation:"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                527,
+                609,
+                540
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Health Status:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                543,
+                220,
+                556
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Education:"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                544,
+                601,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Medications"
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                560,
+                223,
+                574
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "NONE"
+                    }
+                ]
+            },
+            "bbox": [
+                165,
+                577,
+                210,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Birth City:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                601,
+                192,
+                616
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Birth Country:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                618,
+                220,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FRANCE"
+                    }
+                ]
+            },
+            "bbox": [
+                281,
+                619,
+                343,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Birth State:"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                602,
+                604,
+                616
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Arrested or Received Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                101,
+                637,
+                367,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Citizenship:"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                618,
+                607,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "USA"
+                    }
+                ]
+            },
+            "bbox": [
+                663,
+                619,
+                696,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Officer Name:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                653,
+                217,
+                666
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Phone:"
+                    }
+                ]
+            },
+            "bbox": [
+                648,
+                653,
+                699,
+                666
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Jurisdiction:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                669,
+                210,
+                682
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Charges (Charge, Offense Date)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                140,
+                686,
+                352,
+                700
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/161266a0bd7c52c439b1d7a85a639daaf92e68c6c82f333e93be4b5e1eca753f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>6405 - Sexual Exploitation of Minor - Sex Performance</td><td rowspan=1 colspan=1>07/02/2020</td></tr><tr><td rowspan=1 colspan=1>6405 - Sexual Exploitation of Minor - Sex Performance</td><td rowspan=1 colspan=1>07/02/2020</td></tr><tr><td rowspan=1 colspan=1>3622 - Transport Interstate for Sexual Activity</td><td rowspan=1 colspan=1>07/02/2020</td></tr><tr><td rowspan=1 colspan=1>3622 - Transport Interstate for Sexual Activity</td><td rowspan=1 colspan=1>07/02/2020</td></tr><tr><td rowspan=1 colspan=1>5003 - Perjury</td><td rowspan=1 colspan=1>07/02/2020</td></tr><tr><td rowspan=1 colspan=2>5003 - Perjury                                                                                 07/02/2020</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                143,
+                700,
+                879,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Warrant Numbers"
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                813,
+                259,
+                827
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "NONE"
+                    }
+                ]
+            },
+            "bbox": [
+                165,
+                830,
+                210,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Agency:"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                856,
+                181,
+                870
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FBI"
+                    }
+                ]
+            },
+            "bbox": [
+                230,
+                856,
+                256,
+                869
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ORI:"
+                    }
+                ]
+            },
+            "bbox": [
+                647,
+                855,
+                681,
+                869
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "NYFBINY00"
+                    }
+                ]
+            },
+            "bbox": [
+                754,
+                855,
+                836,
+                869
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000001"
+                    }
+                ]
+            },
+            "bbox": [
+                740,
+                901,
+                870,
+                914
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "https://www.cjis.gov/jabs/query_showPrinterFriendlyPersonalHistory.do?transactionId=61…. 7/22/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                929,
+                901,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Joint Automated Booking System - Limited Official Use"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                0,
+                534,
+                17
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 1 of 2"
+                    }
+                ]
+            },
+            "bbox": [
+                810,
+                0,
+                900,
+                17
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114085"
+                    }
+                ]
+            },
+            "bbox": [
+                859,
+                948,
+                977,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262782"
+                    }
+                ]
+            },
+            "bbox": [
+                848,
+                976,
+                988,
+                992
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9c03d55b1d8850ae41dbc686280d457a21f436b5de081c985a3dc750f6be6d75.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                101,
+                58,
+                898,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Identifying Documents NONE"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                360,
+                285,
+                390
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Vehicle Information NONE"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                391,
+                261,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Incarceration Information NONE"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                423,
+                307,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Separatee Information NONE"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                454,
+                282,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Associates Information NONE"
+                    }
+                ]
+            },
+            "bbox": [
+                101,
+                485,
+                290,
+                514
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Immediate Family Information NONE"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                516,
+                341,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Limited official Use"
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                558,
+                243,
+                571
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Joint Automated Booking System - Limited Official Use"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                0,
+                535,
+                17
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 2 of 2"
+                    }
+                ]
+            },
+            "bbox": [
+                810,
+                0,
+                900,
+                17
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDNY_GM_00000002"
+                    }
+                ]
+            },
+            "bbox": [
+                740,
+                901,
+                872,
+                914
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://www.cjis.gov/jabs/query_showPrinterFriendlyPersonalHistory.do?transactionId=61…. 7/22/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                929,
+                901,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA_00114086"
+                    }
+                ]
+            },
+            "bbox": [
+                857,
+                946,
+                978,
+                962
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "EFTA01262783"
+                    }
+                ]
+            },
+            "bbox": [
+                848,
+                976,
+                988,
+                992
+            ]
+        }
+    ]
+]

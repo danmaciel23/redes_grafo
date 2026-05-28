@@ -1,0 +1,1492 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="label" attr.type="string"/>
+<key id="d2" for="edge" attr.name="predicates" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="frequencia" attr.type="long"/>
+<graph edgedefault="directed"><node id="Ghislaine Maxwell">
+  <data key="d0">4</data>
+</node>
+<node id="61235657">
+  <data key="d0">1</data>
+</node>
+<node id="8AREFN06X">
+  <data key="d0">1</data>
+</node>
+<node id="Ghislaine Noelle Maxwell">
+  <data key="d0">1</data>
+</node>
+<node id="F5C9BC0CBA14407D96D14A1BF0900815">
+  <data key="d0">1</data>
+</node>
+<node id="Maxwell">
+  <data key="d0">1</data>
+</node>
+<node id="Ghislaine">
+  <data key="d0">1</data>
+</node>
+<node id="Robert W. Lehrburger THEHONORABLEROBERTW">
+  <data key="d0">2</data>
+</node>
+<node id="New York">
+  <data key="d0">16</data>
+</node>
+<node id="June 27, 2019 S">
+  <data key="d0">1</data>
+</node>
+<node id="Alex Rossmiller">
+  <data key="d0">8</data>
+</node>
+<node id="Geoffrey S. Berman">
+  <data key="d0">15</data>
+</node>
+<node id="The United States Of America">
+  <data key="d0">2</data>
+</node>
+<node id="United States">
+  <data key="d0">7</data>
+</node>
+<node id="the Southern District">
+  <data key="d0">7</data>
+</node>
+<node id="T-Mobile">
+  <data key="d0">1</data>
+</node>
+<node id="U.S">
+  <data key="d0">5</data>
+</node>
+<node id="January 7, 2020">
+  <data key="d0">1</data>
+</node>
+<node id="Debra Freeman">
+  <data key="d0">4</data>
+</node>
+<node id="Southern District">
+  <data key="d0">4</data>
+</node>
+<node id="January , 2020 S/">
+  <data key="d0">1</data>
+</node>
+<node id="identi te erson">
+  <data key="d0">3</data>
+</node>
+<node id="Attachment A">
+  <data key="d0">1</data>
+</node>
+<node id="Barbare Moses">
+  <data key="d0">2</data>
+</node>
+<node id="Jeffrey Epstein">
+  <data key="d0">64</data>
+</node>
+<node id="the Subject Premises">
+  <data key="d0">4</data>
+</node>
+<node id="2019">
+  <data key="d0">2</data>
+</node>
+<node id="about 2002">
+  <data key="d0">3</data>
+</node>
+<node id="about 2005">
+  <data key="d0">2</data>
+</node>
+<node id="Epstein">
+  <data key="d0">42</data>
+</node>
+<node id="the New York Residence">
+  <data key="d0">6</data>
+</node>
+<node id="Fbi">
+  <data key="d0">3</data>
+</node>
+<node id="Between approximately 2002 and 2005">
+  <data key="d0">1</data>
+</node>
+<node id="Corporation">
+  <data key="d0">2</data>
+</node>
+<node id="Maple, Inc">
+  <data key="d0">1</data>
+</node>
+<node id="around December 2011">
+  <data key="d0">1</data>
+</node>
+<node id="December 2011">
+  <data key="d0">1</data>
+</node>
+<node id="JErFREy EPsTEIN">
+  <data key="d0">1</data>
+</node>
+<node id="many years">
+  <data key="d0">1</data>
+</node>
+<node id="the &quot;New York Residence">
+  <data key="d0">1</data>
+</node>
+<node id="the &quot;Palm Beach Residence">
+  <data key="d0">1</data>
+</node>
+<node id="Florida">
+  <data key="d0">4</data>
+</node>
+<node id="Manhattan">
+  <data key="d0">3</data>
+</node>
+<node id="Palm Beach">
+  <data key="d0">3</data>
+</node>
+<node id="the Palm Beach Residence">
+  <data key="d0">3</data>
+</node>
+<node id="United states">
+  <data key="d0">1</data>
+</node>
+<node id="at least 2002">
+  <data key="d0">1</data>
+</node>
+<node id="Additionallyr">
+  <data key="d0">2</data>
+</node>
+<node id="JEFEREY EPsTEIN">
+  <data key="d0">5</data>
+</node>
+<node id="United">
+  <data key="d0">3</data>
+</node>
+<node id="the United states">
+  <data key="d0">3</data>
+</node>
+<node id="enticer harbor">
+  <data key="d0">1</data>
+</node>
+<node id="the age of l8 years">
+  <data key="d0">1</data>
+</node>
+<node id="about 2004">
+  <data key="d0">3</data>
+</node>
+<node id="Minor">
+  <data key="d0">1</data>
+</node>
+<node id="less than 18 years old">
+  <data key="d0">2</data>
+</node>
+<node id="the age of 18 years">
+  <data key="d0">1</data>
+</node>
+<node id="U.s">
+  <data key="d0">2</data>
+</node>
+<node id="1591(a),(b)(2">
+  <data key="d0">2</data>
+</node>
+<node id="Barbara Moses">
+  <data key="d0">16</data>
+</node>
+<node id="16">
+  <data key="d0">1</data>
+</node>
+<node id="17">
+  <data key="d0">1</data>
+</node>
+<node id="18">
+  <data key="d0">1</data>
+</node>
+<node id="about July 7, 2019">
+  <data key="d0">1</data>
+</node>
+<node id="New Mexico">
+  <data key="d0">1</data>
+</node>
+<node id="the U.S. Virgin Islands">
+  <data key="d0">1</data>
+</node>
+<node id="Jeferey Epstein">
+  <data key="d0">13</data>
+</node>
+<node id="14 years old">
+  <data key="d0">2</data>
+</node>
+<node id="as young as l4 years">
+  <data key="d0">1</data>
+</node>
+<node id="New Yoxk">
+  <data key="d0">1</data>
+</node>
+<node id="18 years">
+  <data key="d0">2</data>
+</node>
+<node id="less than l8 years old">
+  <data key="d0">2</data>
+</node>
+<node id="the Southem District">
+  <data key="d0">2</data>
+</node>
+<node id="Attachmenta">
+  <data key="d0">1</data>
+</node>
+<node id="Searehed——Subject Premises">
+  <data key="d0">1</data>
+</node>
+<node id="SireWar P">
+  <data key="d0">1</data>
+</node>
+<node id="Ny">
+  <data key="d0">3</data>
+</node>
+<node id="Leslie Adamczyk">
+  <data key="d0">2</data>
+</node>
+<node id="Federal Bureau of Investigation">
+  <data key="d0">1</data>
+</node>
+<node id="July 6, 2019">
+  <data key="d0">2</data>
+</node>
+<node id="Palm Beachy">
+  <data key="d0">1</data>
+</node>
+<node id="1n at least 2002">
+  <data key="d0">1</data>
+</node>
+<node id="the New Yoxk Residence">
+  <data key="d0">1</data>
+</node>
+<node id="the Southexn District">
+  <data key="d0">1</data>
+</node>
+<node id="1594;Title 21">
+  <data key="d0">1</data>
+</node>
+<node id="18 0.s">
+  <data key="d0">1</data>
+</node>
+<node id="Court">
+  <data key="d0">4</data>
+</node>
+<node id="anauthorie theofficerexecuting">
+  <data key="d0">2</data>
+</node>
+<node id="tria">
+  <data key="d0">1</data>
+</node>
+<node id="days">
+  <data key="d0">1</data>
+</node>
+<node id="Henry Pitman">
+  <data key="d0">5</data>
+</node>
+<node id="menoffcrao f ho">
+  <data key="d0">2</data>
+</node>
+<node id="# UNITED STATES">
+  <data key="d0">1</data>
+</node>
+<node id="Kevin Nathaniel Fox">
+  <data key="d0">1</data>
+</node>
+<node id="Imei">
+  <data key="d0">1</data>
+</node>
+<node id="follows1: a. A">
+  <data key="d0">1</data>
+</node>
+<node id="iPhone">
+  <data key="d0">1</data>
+</node>
+<node id="iPad">
+  <data key="d0">1</data>
+</node>
+<node id="Specia aent d">
+  <data key="d0">1</data>
+</node>
+<node id="about July 11, 2019">
+  <data key="d0">2</data>
+</node>
+<node id="That same day">
+  <data key="d0">2</data>
+</node>
+<node id="EaststSte">
+  <data key="d0">1</data>
+</node>
+<node id="Ne York">
+  <data key="d0">1</data>
+</node>
+<node id="New Jersey">
+  <data key="d0">1</data>
+</node>
+<node id="Cbp">
+  <data key="d0">1</data>
+</node>
+<node id="U.S. Customs and Border Protection">
+  <data key="d0">1</data>
+</node>
+<node id="the United States">
+  <data key="d0">1</data>
+</node>
+<node id="Henry B. Pitman">
+  <data key="d0">5</data>
+</node>
+<node id="the Seized Discs">
+  <data key="d0">1</data>
+</node>
+<node id="the Search Team">
+  <data key="d0">1</data>
+</node>
+<node id="Miami Herald">
+  <data key="d0">1</data>
+</node>
+<node id="Npa">
+  <data key="d0">2</data>
+</node>
+<node id="-5">
+  <data key="d0">1</data>
+</node>
+<node id="-6">
+  <data key="d0">1</data>
+</node>
+<node id="2018">
+  <data key="d0">1</data>
+</node>
+<node id="the July 7, 2019">
+  <data key="d0">1</data>
+</node>
+<node id="under 18">
+  <data key="d0">1</data>
+</node>
+<node id="Eps'Tein">
+  <data key="d0">1</data>
+</node>
+<node id="the Subject Items">
+  <data key="d0">2</data>
+</node>
+<node id="months">
+  <data key="d0">1</data>
+</node>
+<node id="years">
+  <data key="d0">1</data>
+</node>
+<node id="JEFFREY EPS'TEIN's">
+  <data key="d0">3</data>
+</node>
+<node id="Esi">
+  <data key="d0">2</data>
+</node>
+<node id="Iteims">
+  <data key="d0">1</data>
+</node>
+<node id="the Subject Offences">
+  <data key="d0">1</data>
+</node>
+<node id="follows1">
+  <data key="d0">1</data>
+</node>
+<node id="July 11, 2019">
+  <data key="d0">2</data>
+</node>
+<node id="Cnhiant Ttome">
+  <data key="d0">2</data>
+</node>
+<node id="the Subject Items Law">
+  <data key="d0">1</data>
+</node>
+<node id="byr">
+  <data key="d0">1</data>
+</node>
+<node id="FLorida">
+  <data key="d0">1</data>
+</node>
+<node id="the Southern Distxict of New York">
+  <data key="d0">1</data>
+</node>
+<node id="anc">
+  <data key="d0">2</data>
+</node>
+<node id="United States of America">
+  <data key="d0">2</data>
+</node>
+<node id="18 u.s.C.ss 371,1591(a)，(b)(2)，and2">
+  <data key="d0">2</data>
+</node>
+<node id="Jeffrey Epsteln">
+  <data key="d0">2</data>
+</node>
+<node id="Probation Violation Petition Supervised">
+  <data key="d0">1</data>
+</node>
+<node id="Us">
+  <data key="d0">1</data>
+</node>
+<node id="Seizaro Warrant">
+  <data key="d0">1</data>
+</node>
+<node id="b. Bvidence">
+  <data key="d0">3</data>
+</node>
+<node id="Copy&amp;#x27;of">
+  <data key="d0">1</data>
+</node>
+<node id="anentor shuldefedundr">
+  <data key="d0">3</data>
+</node>
+<node id="Usmj">
+  <data key="d0">1</data>
+</node>
+<node id="exceed3">
+  <data key="d0">1</data>
+</node>
+<node id="30days">
+  <data key="d0">1</data>
+</node>
+<node id="justifyingthelatetspecif dateof">
+  <data key="d0">3</data>
+</node>
+<node id="MSpeil Aent Ke Mayuiref">
+  <data key="d0">1</data>
+</node>
+<edge source="Ghislaine Maxwell" target="61235657">
+  <data key="d1">1</data>
+  <data key="d2">tem identificação de transação</data>
+  <data key="d3">tem identificação de transação</data>
+</edge>
+<edge source="Ghislaine Maxwell" target="8AREFN06X">
+  <data key="d1">1</data>
+  <data key="d2">tem número do FBI</data>
+  <data key="d3">tem número do FBI</data>
+</edge>
+<edge source="Ghislaine Maxwell" target="Ghislaine Noelle Maxwell">
+  <data key="d1">1</data>
+  <data key="d2">tem nome no FBI</data>
+  <data key="d3">tem nome no FBI</data>
+</edge>
+<edge source="Ghislaine Maxwell" target="F5C9BC0CBA14407D96D14A1BF0900815">
+  <data key="d1">1</data>
+  <data key="d2">tem identificação de pacote</data>
+  <data key="d3">tem identificação de pacote</data>
+</edge>
+<edge source="Maxwell" target="Ghislaine">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Robert W. Lehrburger THEHONORABLEROBERTW" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Robert W. Lehrburger THEHONORABLEROBERTW" target="June 27, 2019 S">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Alex Rossmiller" target="Geoffrey S. Berman">
+  <data key="d1">1</data>
+  <data key="d2">trabalhou com</data>
+  <data key="d3">trabalhou com</data>
+</edge>
+<edge source="Alex Rossmiller" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Alex Rossmiller" target="The United States Of America">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Alex Rossmiller" target="United States">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Alex Rossmiller" target="the Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Alex Rossmiller" target="T-Mobile">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Alex Rossmiller" target="U.S">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Alex Rossmiller" target="January 7, 2020">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="The United States Of America">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="United States">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="the Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="Jeffrey Epstein">
+  <data key="d1">1</data>
+  <data key="d2">foi mencionado com</data>
+  <data key="d3">foi mencionado com</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="U.s">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="1591(a),(b)(2">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="the Southem District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="United">
+  <data key="d1">2</data>
+  <data key="d2">foi associado a organização; foi associado a local</data>
+  <data key="d3">foi associado a organização, foi associado a local</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="1594;Title 21">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="United States of America">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Geoffrey S. Berman" target="18 u.s.C.ss 371,1591(a)，(b)(2)，and2">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Debra Freeman" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Debra Freeman" target="United States">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Debra Freeman" target="Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Debra Freeman" target="January , 2020 S/">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="identi te erson" target="Attachment A">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="identi te erson" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="identi te erson" target="the Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Barbare Moses" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Barbare Moses" target="U.S">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the Subject Premises">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="2019">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="about 2002">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="about 2005">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Corporation">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the &quot;New York Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the &quot;Palm Beach Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Florida">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Manhattan">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Palm Beach">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the New York Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the Palm Beach Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="United states">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="at least 2002">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Additionallyr">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="United">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the United states">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="enticer harbor">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the age of l8 years">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="about 2004">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="less than 18 years old">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the age of 18 years">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="U.s">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="United States">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="1591(a),(b)(2">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Fbi">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="16">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="17">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="18">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Epstein">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="New Yoxk">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="18 years">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="less than l8 years old">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the Southem District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Palm Beachy">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="1n at least 2002">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="18 0.s">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Imei">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="follows1: a. A">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="iPhone">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="iPad">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="That same day">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="New Jersey">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="July 6, 2019">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the Search Team">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Miami Herald">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Npa">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="-5">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="-6">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="2018">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the July 7, 2019">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a evento</data>
+  <data key="d3">foi associado a evento</data>
+</edge>
+<edge source="Jeffrey Epstein" target="follows1">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="July 11, 2019">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeffrey Epstein" target="the Southern Distxict of New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="anc">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epstein" target="United States of America">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeffrey Epstein" target="18 u.s.C.ss 371,1591(a)，(b)(2)，and2">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="the New York Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="the Subject Premises">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="about 2002">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="about 2005">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="Jeffrey Epstein">
+  <data key="d1">2</data>
+  <data key="d2">foi mencionado com; trabalhou com</data>
+  <data key="d3">foi mencionado com, trabalhou com</data>
+</edge>
+<edge source="Epstein" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="Fbi">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="Between approximately 2002 and 2005">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="Corporation">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="Maple, Inc">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="U.S">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="around December 2011">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="December 2011">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="Additionallyr">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="Minor">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="the Palm Beach Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="the Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="Florida">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="New Mexico">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="the U.S. Virgin Islands">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="as young as l4 years">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="Palm Beach">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="about 2004">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="the New Yoxk Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="the Southexn District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="Manhattan">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="18 years">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="less than l8 years old">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="the United states">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="EaststSte">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="Ne York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="Cbp">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="U.S. Customs and Border Protection">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="the United States">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="Npa">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Epstein" target="under 18">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Epstein" target="Eps'Tein">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="anc">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Epstein" target="less than 18 years old">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="JErFREy EPsTEIN" target="many years">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="JEFEREY EPsTEIN" target="Florida">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="JEFEREY EPsTEIN" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="JEFEREY EPsTEIN" target="14 years old">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="JEFEREY EPsTEIN" target="the New York Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="JEFEREY EPsTEIN" target="byr">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Barbara Moses" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Barbara Moses" target="U.S">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Barbara Moses" target="United States">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Barbara Moses" target="2019">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Barbara Moses" target="about July 7, 2019">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Barbara Moses" target="Attachmenta">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Barbara Moses" target="Searehed——Subject Premises">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Barbara Moses" target="SireWar P">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Barbara Moses" target="Ny">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Barbara Moses" target="the Subject Premises">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Barbara Moses" target="Court">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Barbara Moses" target="Jeffrey Epstein">
+  <data key="d1">1</data>
+  <data key="d2">foi mencionado com</data>
+  <data key="d3">foi mencionado com</data>
+</edge>
+<edge source="Barbara Moses" target="That same day">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Barbara Moses" target="the New York Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Barbara Moses" target="Us">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Barbara Moses" target="Seizaro Warrant">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeferey Epstein" target="14 years old">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeferey Epstein" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeferey Epstein" target="United States">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeferey Epstein" target="the United states">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeferey Epstein" target="the Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeferey Epstein" target="about 2002">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeferey Epstein" target="Florida">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeferey Epstein" target="Manhattan">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeferey Epstein" target="Palm Beach">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Jeferey Epstein" target="about 2004">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Jeferey Epstein" target="the New York Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeferey Epstein" target="the Palm Beach Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeferey Epstein" target="FLorida">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Leslie Adamczyk" target="Federal Bureau of Investigation">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Leslie Adamczyk" target="July 6, 2019">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="anauthorie theofficerexecuting" target="tria">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="anauthorie theofficerexecuting" target="days">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Henry Pitman" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Henry Pitman" target="Ny">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Henry Pitman" target="U.S">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Henry Pitman" target="Copy&amp;#x27;of">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Henry Pitman" target="Court">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="menoffcrao f ho" target="# UNITED STATES">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="menoffcrao f ho" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Kevin Nathaniel Fox" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Specia aent d" target="about July 11, 2019">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="Henry B. Pitman" target="Fbi">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Henry B. Pitman" target="the New York Residence">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Henry B. Pitman" target="the Seized Discs">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Henry B. Pitman" target="United States">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="Henry B. Pitman" target="about July 11, 2019">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="the Subject Items" target="months">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="the Subject Items" target="years">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="JEFFREY EPS'TEIN's" target="Esi">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="JEFFREY EPS'TEIN's" target="Iteims">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="JEFFREY EPS'TEIN's" target="the Subject Offences">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Cnhiant Ttome" target="Esi">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Cnhiant Ttome" target="the Subject Items Law">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epsteln" target="Court">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="Jeffrey Epsteln" target="Probation Violation Petition Supervised">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="b. Bvidence" target="the Subject Premises">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="b. Bvidence" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="b. Bvidence" target="the Southern District">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="anentor shuldefedundr" target="Usmj">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="anentor shuldefedundr" target="exceed3">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="anentor shuldefedundr" target="30days">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+<edge source="justifyingthelatetspecif dateof" target="Court">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a organização</data>
+  <data key="d3">foi associado a organização</data>
+</edge>
+<edge source="justifyingthelatetspecif dateof" target="New York">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="justifyingthelatetspecif dateof" target="Ny">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a local</data>
+  <data key="d3">foi associado a local</data>
+</edge>
+<edge source="MSpeil Aent Ke Mayuiref" target="July 11, 2019">
+  <data key="d1">1</data>
+  <data key="d2">foi associado a data</data>
+  <data key="d3">foi associado a data</data>
+</edge>
+</graph></graphml>
