@@ -1,13 +1,28 @@
 [
   [
     "Barbara Moses",
-    "foi associado a organização",
-    "Court"
+    "foi associado a local",
+    "New York"
   ],
   [
     "Barbara Moses",
     "foi associado a local",
-    "New York"
+    "U.S"
+  ],
+  [
+    "Barbara Moses",
+    "foi associado a local",
+    "United States"
+  ],
+  [
+    "Barbara Moses",
+    "foi associado a data",
+    "2019"
+  ],
+  [
+    "Barbara Moses",
+    "foi associado a data",
+    "about July 7, 2019"
   ],
   [
     "Barbara Moses",
@@ -16,7 +31,12 @@
   ],
   [
     "Barbara Moses",
+    "foi associado a organização",
+    "Court"
+  ],
+  [
+    "Barbara Moses",
     "foi associado a local",
-    "U.S"
+    "Us"
   ]
 ]

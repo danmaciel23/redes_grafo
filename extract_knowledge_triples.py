@@ -239,16 +239,33 @@ def normalize_entity(value: str) -> str:
     value = re.sub(r"\b(Mr\.?|Ms\.?|Mrs\.?|Dr\.?|Hon\.?|Sir)\s+", "", value, flags=re.I)
     value = re.sub(r"\s+", " ", value)
     value = value.strip(" \t\r\n.,;:()[]{}")
+    value = re.sub(r"'s$", "", value, flags=re.I)
     if re.fullmatch(r"[A-Z][A-Z ,.'-]+", value) and "," in value:
         parts = [part.strip() for part in value.split(",", 1)]
         if len(parts) == 2 and parts[0] and parts[1]:
             value = f"{parts[1]} {parts[0]}"
     if re.fullmatch(r"[A-Z][A-Z .'-]+", value):
         value = value.title().replace("S.", "S.").replace("W.", "W.")
-    if re.fullmatch(r"eps[a-z]{2,7}in", value.lower()):
-        value = "Epstein"
-    value = re.sub(r"\bJEFFREY\s+EPS?TEIN\b", "Jeffrey Epstein", value, flags=re.I)
-    value = re.sub(r"\bGHISLAINE\s+MAXWELL\b", "Ghislaine Maxwell", value, flags=re.I)
+    normalized_key = re.sub(r"[^a-z]", "", value.lower())
+    if normalized_key in {
+        "epstein",
+        "epsteln",
+        "epsttein",
+        "epsptein",
+        "jeffreyepstein",
+        "jefereyepstein",
+        "jerfreyepstein",
+        "jeffreyepsteln",
+        "jeffreyepsptein",
+        "jeffreyepsstein",
+    }:
+        return "Jeffrey Epstein"
+    if normalized_key in {
+        "maxwell",
+        "ghislainemaxwell",
+        "ghislainenoellemaxwell",
+    }:
+        return "Ghislaine Maxwell"
     return value
 
 
