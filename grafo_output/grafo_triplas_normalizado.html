@@ -1,0 +1,178 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1>Grafo de triplas normalizado por comunidades</h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 95vh;
+                 background-color: #0d1117;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+             #config {
+                 float: left;
+                 width: 400px;
+                 height: 600px;
+             }
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+            <div id="config"></div>
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"font": {"color": "#e6edf3"}, "group": 2, "id": "Robert W. Lehrburger THEHONORABLEROBERTW", "label": "Robert W. Lehrburger THEHONORABLEROBERTW", "shape": "dot", "size": 15.448174855149553, "title": "\u003cb\u003eRobert W. Lehrburger THEHONORABLEROBERTW\u003c/b\u003e\u003cbr\u003eComunidade: 2\u003cbr\u003eOcorrencias agregadas: 2\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 2, "id": "New York", "label": "New York", "shape": "dot", "size": 25.413733908701094, "title": "\u003cb\u003eNew York\u003c/b\u003e\u003cbr\u003eComunidade: 2\u003cbr\u003eOcorrencias agregadas: 21\u003cbr\u003eConexoes: 7"}, {"font": {"color": "#e6edf3"}, "group": 1, "id": "Alex Rossmiller", "label": "Alex Rossmiller", "shape": "dot", "size": 19.896349710299106, "title": "\u003cb\u003eAlex Rossmiller\u003c/b\u003e\u003cbr\u003eComunidade: 1\u003cbr\u003eOcorrencias agregadas: 8\u003cbr\u003eConexoes: 4"}, {"font": {"color": "#e6edf3"}, "group": 1, "id": "Geoffrey S. Berman", "label": "Geoffrey S. Berman", "shape": "dot", "size": 23.181828539463417, "title": "\u003cb\u003eGeoffrey S. Berman\u003c/b\u003e\u003cbr\u003eComunidade: 1\u003cbr\u003eOcorrencias agregadas: 15\u003cbr\u003eConexoes: 5"}, {"font": {"color": "#e6edf3"}, "group": 1, "id": "United States", "label": "United States", "shape": "dot", "size": 27.038122522471312, "title": "\u003cb\u003eUnited States\u003c/b\u003e\u003cbr\u003eComunidade: 1\u003cbr\u003eOcorrencias agregadas: 26\u003cbr\u003eConexoes: 6"}, {"font": {"color": "#e6edf3"}, "group": 1, "id": "T-Mobile", "label": "T-Mobile", "shape": "dot", "size": 14.145334603979737, "title": "\u003cb\u003eT-Mobile\u003c/b\u003e\u003cbr\u003eComunidade: 1\u003cbr\u003eOcorrencias agregadas: 1\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 3, "id": "Debra Freeman", "label": "Debra Freeman", "shape": "dot", "size": 17.290669207959475, "title": "\u003cb\u003eDebra Freeman\u003c/b\u003e\u003cbr\u003eComunidade: 3\u003cbr\u003eOcorrencias agregadas: 4\u003cbr\u003eConexoes: 3"}, {"font": {"color": "#e6edf3"}, "group": 3, "id": "Southern District of New York", "label": "Southern District of New York", "shape": "dot", "size": 17.290669207959475, "title": "\u003cb\u003eSouthern District of New York\u003c/b\u003e\u003cbr\u003eComunidade: 3\u003cbr\u003eOcorrencias agregadas: 4\u003cbr\u003eConexoes: 3"}, {"font": {"color": "#e6edf3"}, "group": 2, "id": "Barbara Moses", "label": "Barbara Moses", "shape": "dot", "size": 24.34452456544865, "title": "\u003cb\u003eBarbara Moses\u003c/b\u003e\u003cbr\u003eComunidade: 2\u003cbr\u003eOcorrencias agregadas: 18\u003cbr\u003eConexoes: 3"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "Jeffrey Epstein", "label": "Jeffrey Epstein", "shape": "dot", "size": 47.0, "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 131\u003cbr\u003eConexoes: 17"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "Federal Bureau of Investigation", "label": "Federal Bureau of Investigation", "shape": "dot", "size": 16.447879340897437, "title": "\u003cb\u003eFederal Bureau of Investigation\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 3\u003cbr\u003eConexoes: 2"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "Maple, Inc", "label": "Maple, Inc", "shape": "dot", "size": 14.145334603979737, "title": "\u003cb\u003eMaple, Inc\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 1\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "Florida", "label": "Florida", "shape": "dot", "size": 18.033181986481072, "title": "\u003cb\u003eFlorida\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 5\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "Manhattan", "label": "Manhattan", "shape": "dot", "size": 16.447879340897437, "title": "\u003cb\u003eManhattan\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 3\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "Palm Beach", "label": "Palm Beach", "shape": "dot", "size": 17.290669207959475, "title": "\u003cb\u003ePalm Beach\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 4\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "New Mexico", "label": "New Mexico", "shape": "dot", "size": 14.145334603979737, "title": "\u003cb\u003eNew Mexico\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 1\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "the U.S. Virgin Islands", "label": "the U.S. Virgin Islands", "shape": "dot", "size": 14.145334603979737, "title": "\u003cb\u003ethe U.S. Virgin Islands\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 1\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 2, "id": "Henry Pitman", "label": "Henry Pitman", "shape": "dot", "size": 20.94642135191968, "title": "\u003cb\u003eHenry Pitman\u003c/b\u003e\u003cbr\u003eComunidade: 2\u003cbr\u003eOcorrencias agregadas: 10\u003cbr\u003eConexoes: 3"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "iPhone", "label": "iPhone", "shape": "dot", "size": 14.145334603979737, "title": "\u003cb\u003eiPhone\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 1\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "iPad", "label": "iPad", "shape": "dot", "size": 14.145334603979737, "title": "\u003cb\u003eiPad\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 1\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "New Jersey", "label": "New Jersey", "shape": "dot", "size": 14.145334603979737, "title": "\u003cb\u003eNew Jersey\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 1\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "U.S. Customs and Border Protection", "label": "U.S. Customs and Border Protection", "shape": "dot", "size": 14.145334603979737, "title": "\u003cb\u003eU.S. Customs and Border Protection\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 1\u003cbr\u003eConexoes: 1"}, {"font": {"color": "#e6edf3"}, "group": 0, "id": "Miami Herald", "label": "Miami Herald", "shape": "dot", "size": 14.145334603979737, "title": "\u003cb\u003eMiami Herald\u003c/b\u003e\u003cbr\u003eComunidade: 0\u003cbr\u003eOcorrencias agregadas: 1\u003cbr\u003eConexoes: 1"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Robert W. Lehrburger THEHONORABLEROBERTW", "label": "foi associado a local", "title": "\u003cb\u003eRobert W. Lehrburger THEHONORABLEROBERTW\u003c/b\u003e -\u003e \u003cb\u003eNew York\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "New York", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Alex Rossmiller", "label": "trabalhou com", "title": "\u003cb\u003eAlex Rossmiller\u003c/b\u003e -\u003e \u003cb\u003eGeoffrey S. Berman\u003c/b\u003e\u003cbr\u003eRelacao: trabalhou com\u003cbr\u003ePeso: 1", "to": "Geoffrey S. Berman", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Alex Rossmiller", "label": "foi associado a local", "title": "\u003cb\u003eAlex Rossmiller\u003c/b\u003e -\u003e \u003cb\u003eNew York\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "New York", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Alex Rossmiller", "label": "foi associado a local", "title": "\u003cb\u003eAlex Rossmiller\u003c/b\u003e -\u003e \u003cb\u003eUnited States\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (3)\u003cbr\u003ePeso: 3", "to": "United States", "width": 3.1}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Alex Rossmiller", "label": "foi associado a organiza\u00e7\u00e3o", "title": "\u003cb\u003eAlex Rossmiller\u003c/b\u003e -\u003e \u003cb\u003eT-Mobile\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a organiza\u00e7\u00e3o\u003cbr\u003ePeso: 1", "to": "T-Mobile", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Geoffrey S. Berman", "label": "foi associado a local", "title": "\u003cb\u003eGeoffrey S. Berman\u003c/b\u003e -\u003e \u003cb\u003eNew York\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "New York", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Geoffrey S. Berman", "label": "foi associado a local, foi associado a organiza\u00e7\u00e3o", "title": "\u003cb\u003eGeoffrey S. Berman\u003c/b\u003e -\u003e \u003cb\u003eUnited States\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (5); foi associado a organiza\u00e7\u00e3o (2)\u003cbr\u003ePeso: 7", "to": "United States", "width": 5.8999999999999995}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Geoffrey S. Berman", "label": "foi mencionado com", "title": "\u003cb\u003eGeoffrey S. Berman\u003c/b\u003e -\u003e \u003cb\u003eJeffrey Epstein\u003c/b\u003e\u003cbr\u003eRelacao: foi mencionado com\u003cbr\u003ePeso: 1", "to": "Jeffrey Epstein", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Geoffrey S. Berman", "label": "foi associado a local", "title": "\u003cb\u003eGeoffrey S. Berman\u003c/b\u003e -\u003e \u003cb\u003eSouthern District of New York\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "Southern District of New York", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Debra Freeman", "label": "foi associado a local", "title": "\u003cb\u003eDebra Freeman\u003c/b\u003e -\u003e \u003cb\u003eNew York\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "New York", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Debra Freeman", "label": "foi associado a local", "title": "\u003cb\u003eDebra Freeman\u003c/b\u003e -\u003e \u003cb\u003eUnited States\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "United States", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Debra Freeman", "label": "foi associado a local", "title": "\u003cb\u003eDebra Freeman\u003c/b\u003e -\u003e \u003cb\u003eSouthern District of New York\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "Southern District of New York", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Barbara Moses", "label": "foi associado a local", "title": "\u003cb\u003eBarbara Moses\u003c/b\u003e -\u003e \u003cb\u003eNew York\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (3)\u003cbr\u003ePeso: 3", "to": "New York", "width": 3.1}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Barbara Moses", "label": "foi associado a local", "title": "\u003cb\u003eBarbara Moses\u003c/b\u003e -\u003e \u003cb\u003eUnited States\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (4)\u003cbr\u003ePeso: 4", "to": "United States", "width": 3.8000000000000003}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Barbara Moses", "label": "foi mencionado com", "title": "\u003cb\u003eBarbara Moses\u003c/b\u003e -\u003e \u003cb\u003eJeffrey Epstein\u003c/b\u003e\u003cbr\u003eRelacao: foi mencionado com\u003cbr\u003ePeso: 1", "to": "Jeffrey Epstein", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a local", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eNew York\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (6)\u003cbr\u003ePeso: 6", "to": "New York", "width": 5.2}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a local", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eFlorida\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (5)\u003cbr\u003ePeso: 5", "to": "Florida", "width": 4.5}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a local", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eManhattan\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (3)\u003cbr\u003ePeso: 3", "to": "Manhattan", "width": 3.1}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a local", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003ePalm Beach\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (4)\u003cbr\u003ePeso: 4", "to": "Palm Beach", "width": 3.8000000000000003}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a local, foi associado a organiza\u00e7\u00e3o", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eUnited States\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (9); foi associado a organiza\u00e7\u00e3o\u003cbr\u003ePeso: 10", "to": "United States", "width": 8.0}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a organiza\u00e7\u00e3o", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eFederal Bureau of Investigation\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a organiza\u00e7\u00e3o (2)\u003cbr\u003ePeso: 2", "to": "Federal Bureau of Investigation", "width": 2.4000000000000004}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a organiza\u00e7\u00e3o", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eiPhone\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a organiza\u00e7\u00e3o\u003cbr\u003ePeso: 1", "to": "iPhone", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a organiza\u00e7\u00e3o", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eiPad\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a organiza\u00e7\u00e3o\u003cbr\u003ePeso: 1", "to": "iPad", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a local", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eNew Jersey\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "New Jersey", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a local", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eMiami Herald\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "Miami Herald", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a local", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eSouthern District of New York\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (2)\u003cbr\u003ePeso: 2", "to": "Southern District of New York", "width": 2.4000000000000004}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a organiza\u00e7\u00e3o", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eMaple, Inc\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a organiza\u00e7\u00e3o\u003cbr\u003ePeso: 1", "to": "Maple, Inc", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a local", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eNew Mexico\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "New Mexico", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a local", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003ethe U.S. Virgin Islands\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local\u003cbr\u003ePeso: 1", "to": "the U.S. Virgin Islands", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Jeffrey Epstein", "label": "foi associado a organiza\u00e7\u00e3o", "title": "\u003cb\u003eJeffrey Epstein\u003c/b\u003e -\u003e \u003cb\u003eU.S. Customs and Border Protection\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a organiza\u00e7\u00e3o\u003cbr\u003ePeso: 1", "to": "U.S. Customs and Border Protection", "width": 1.7000000000000002}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Henry Pitman", "label": "foi associado a local", "title": "\u003cb\u003eHenry Pitman\u003c/b\u003e -\u003e \u003cb\u003eNew York\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (2)\u003cbr\u003ePeso: 2", "to": "New York", "width": 2.4000000000000004}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Henry Pitman", "label": "foi associado a local", "title": "\u003cb\u003eHenry Pitman\u003c/b\u003e -\u003e \u003cb\u003eUnited States\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a local (2)\u003cbr\u003ePeso: 2", "to": "United States", "width": 2.4000000000000004}, {"arrows": "to", "color": {"color": "#3b424d", "highlight": "#ffffff"}, "font": {"color": "#c9d1d9", "size": 10, "strokeWidth": 3}, "from": "Henry Pitman", "label": "foi associado a organiza\u00e7\u00e3o", "title": "\u003cb\u003eHenry Pitman\u003c/b\u003e -\u003e \u003cb\u003eFederal Bureau of Investigation\u003c/b\u003e\u003cbr\u003eRelacao: foi associado a organiza\u00e7\u00e3o\u003cbr\u003ePeso: 1", "to": "Federal Bureau of Investigation", "width": 1.7000000000000002}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": true,
+        "filter": [
+            "physics"
+        ]
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.2,
+            "damping": 0.09,
+            "gravitationalConstant": -6000,
+            "springConstant": 0.035,
+            "springLength": 165
+        },
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+                  // if this network requires displaying the configure window,
+                  // put it in its div
+                  options.configure["container"] = document.getElementById("config");
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

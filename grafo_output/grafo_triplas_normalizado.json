@@ -1,0 +1,399 @@
+{
+  "directed": true,
+  "nodes": [
+    {
+      "id": "Robert W. Lehrburger THEHONORABLEROBERTW",
+      "frequencia": 2,
+      "grau": 1,
+      "community": 2,
+      "color": "#b8de6f"
+    },
+    {
+      "id": "New York",
+      "frequencia": 21,
+      "grau": 7,
+      "community": 2,
+      "color": "#b8de6f"
+    },
+    {
+      "id": "Alex Rossmiller",
+      "frequencia": 8,
+      "grau": 4,
+      "community": 1,
+      "color": "#f72585"
+    },
+    {
+      "id": "Geoffrey S. Berman",
+      "frequencia": 15,
+      "grau": 5,
+      "community": 1,
+      "color": "#f72585"
+    },
+    {
+      "id": "United States",
+      "frequencia": 26,
+      "grau": 6,
+      "community": 1,
+      "color": "#f72585"
+    },
+    {
+      "id": "T-Mobile",
+      "frequencia": 1,
+      "grau": 1,
+      "community": 1,
+      "color": "#f72585"
+    },
+    {
+      "id": "Debra Freeman",
+      "frequencia": 4,
+      "grau": 3,
+      "community": 3,
+      "color": "#f9c74f"
+    },
+    {
+      "id": "Southern District of New York",
+      "frequencia": 4,
+      "grau": 3,
+      "community": 3,
+      "color": "#f9c74f"
+    },
+    {
+      "id": "Barbara Moses",
+      "frequencia": 18,
+      "grau": 3,
+      "community": 2,
+      "color": "#b8de6f"
+    },
+    {
+      "id": "Jeffrey Epstein",
+      "frequencia": 131,
+      "grau": 17,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "Federal Bureau of Investigation",
+      "frequencia": 3,
+      "grau": 2,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "Maple, Inc",
+      "frequencia": 1,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "Florida",
+      "frequencia": 5,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "Manhattan",
+      "frequencia": 3,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "Palm Beach",
+      "frequencia": 4,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "New Mexico",
+      "frequencia": 1,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "the U.S. Virgin Islands",
+      "frequencia": 1,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "Henry Pitman",
+      "frequencia": 10,
+      "grau": 3,
+      "community": 2,
+      "color": "#b8de6f"
+    },
+    {
+      "id": "iPhone",
+      "frequencia": 1,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "iPad",
+      "frequencia": 1,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "New Jersey",
+      "frequencia": 1,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "U.S. Customs and Border Protection",
+      "frequencia": 1,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    },
+    {
+      "id": "Miami Herald",
+      "frequencia": 1,
+      "grau": 1,
+      "community": 0,
+      "color": "#4cc9f0"
+    }
+  ],
+  "links": [
+    {
+      "source": "Robert W. Lehrburger THEHONORABLEROBERTW",
+      "target": "New York",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Alex Rossmiller",
+      "target": "Geoffrey S. Berman",
+      "weight": 1,
+      "predicates": "trabalhou com",
+      "label": "trabalhou com"
+    },
+    {
+      "source": "Alex Rossmiller",
+      "target": "New York",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Alex Rossmiller",
+      "target": "United States",
+      "weight": 3,
+      "predicates": "foi associado a local (3)",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Alex Rossmiller",
+      "target": "T-Mobile",
+      "weight": 1,
+      "predicates": "foi associado a organização",
+      "label": "foi associado a organização"
+    },
+    {
+      "source": "Geoffrey S. Berman",
+      "target": "New York",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Geoffrey S. Berman",
+      "target": "United States",
+      "weight": 7,
+      "predicates": "foi associado a local (5); foi associado a organização (2)",
+      "label": "foi associado a local, foi associado a organização"
+    },
+    {
+      "source": "Geoffrey S. Berman",
+      "target": "Jeffrey Epstein",
+      "weight": 1,
+      "predicates": "foi mencionado com",
+      "label": "foi mencionado com"
+    },
+    {
+      "source": "Geoffrey S. Berman",
+      "target": "Southern District of New York",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Debra Freeman",
+      "target": "New York",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Debra Freeman",
+      "target": "United States",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Debra Freeman",
+      "target": "Southern District of New York",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Barbara Moses",
+      "target": "New York",
+      "weight": 3,
+      "predicates": "foi associado a local (3)",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Barbara Moses",
+      "target": "United States",
+      "weight": 4,
+      "predicates": "foi associado a local (4)",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Barbara Moses",
+      "target": "Jeffrey Epstein",
+      "weight": 1,
+      "predicates": "foi mencionado com",
+      "label": "foi mencionado com"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "New York",
+      "weight": 6,
+      "predicates": "foi associado a local (6)",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Florida",
+      "weight": 5,
+      "predicates": "foi associado a local (5)",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Manhattan",
+      "weight": 3,
+      "predicates": "foi associado a local (3)",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Palm Beach",
+      "weight": 4,
+      "predicates": "foi associado a local (4)",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "United States",
+      "weight": 10,
+      "predicates": "foi associado a local (9); foi associado a organização",
+      "label": "foi associado a local, foi associado a organização"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Federal Bureau of Investigation",
+      "weight": 2,
+      "predicates": "foi associado a organização (2)",
+      "label": "foi associado a organização"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "iPhone",
+      "weight": 1,
+      "predicates": "foi associado a organização",
+      "label": "foi associado a organização"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "iPad",
+      "weight": 1,
+      "predicates": "foi associado a organização",
+      "label": "foi associado a organização"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "New Jersey",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Miami Herald",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Southern District of New York",
+      "weight": 2,
+      "predicates": "foi associado a local (2)",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Maple, Inc",
+      "weight": 1,
+      "predicates": "foi associado a organização",
+      "label": "foi associado a organização"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "New Mexico",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "the U.S. Virgin Islands",
+      "weight": 1,
+      "predicates": "foi associado a local",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "U.S. Customs and Border Protection",
+      "weight": 1,
+      "predicates": "foi associado a organização",
+      "label": "foi associado a organização"
+    },
+    {
+      "source": "Henry Pitman",
+      "target": "New York",
+      "weight": 2,
+      "predicates": "foi associado a local (2)",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Henry Pitman",
+      "target": "United States",
+      "weight": 2,
+      "predicates": "foi associado a local (2)",
+      "label": "foi associado a local"
+    },
+    {
+      "source": "Henry Pitman",
+      "target": "Federal Bureau of Investigation",
+      "weight": 1,
+      "predicates": "foi associado a organização",
+      "label": "foi associado a organização"
+    }
+  ]
+}
